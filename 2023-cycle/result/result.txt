@@ -50,7 +50,7 @@ JD_Baller07#9668 - Georgia Institute of Technology - Aerospace Engineering
 Icey#6430 - Georgia Institute of Technology - Computer Science, Weather
 Erik Garcia#1542 - Bowdoin College - Government and Legal Studies, Chinese, Japanese, Visual Arts
 benz#1111 - University of California, San Diego - UNKNOWN
-yas#1608 - Rutgers New Brunswick - Meteorology, Creative Writing
+yas#1608 - Rutgers University - Meteorology, Creative Writing
 Yonaseen#4184 - Stanford University - Computer Science
 Jahameb#5976 - Stanford University - UNKNOWN
 iDawg#0648 - University of Maryland - Computer Science, Government and Politics
@@ -81,7 +81,7 @@ miliana#2626 - Wellesley College - Mathematics
 rb#8613 - University of California, Berkeley - Economics, Data Science
 forever10#6924 - University of Chicago - Computer Science, Economics, Environmental Science
 tayyy#2222 - Purdue University - Genetics, Psychology
-Dr. Pill#1130 - Rutgers University, New Brunswick - Biochemistry
+Dr. Pill#1130 - Rutgers University - Biochemistry
 pottedgruyere#6484 - Florida State University - Economics
 roriii#0314 - Tufts University - Biochemistry, French
 Tyrannosaurus Rex#2938 - Case Western Reserve University - Polymer Science and Engineering, Business Management
@@ -266,6 +266,6 @@ Suz#4831 - University of California, Berkeley - Economics
 SpaghettiDabaiji#1884 - School of Visual Arts - Illustration
 itsmeomg#7187 - Stanford University - Mathematics, Data Science, Economics, Management Science
 skullrider56#4564 - George Mason University - Business
-Archir#3716 - University of Illinois at Urbana-Champagne - Electrical Engineering
+Archir#3716 - University of Illinois at Urbana-Champaign - Electrical Engineering
 orangutan#6056 - Brown University - Mathematics, Computer Science
 crrimm#8544 - Harvard University - Molecular and Cellular Biology, History and Science, Pre-med

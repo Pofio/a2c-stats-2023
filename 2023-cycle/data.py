@@ -13,5 +13,19 @@ for i in data:
     for j in i[2]:
         interested_subjects[j] += 1
 
-a = sorted(colleges.items(), key=lambda x: x[1], reverse=True)
-b = sorted(interested_subjects.items(), key=lambda x: x[1], reverse=True)
+c = sorted(colleges.items(), key=lambda x: x[1], reverse=True)
+s = sorted(interested_subjects.items(), key=lambda x: x[1], reverse=True)
+
+with open("../data/t25.txt") as f:
+    t25 = set(i.strip() for i in f.read().split("\n"))
+
+with open("../data/t50.txt") as f:
+    t50 = set(i.strip() for i in f.read().split("\n"))
+
+t25_count = sum(colleges[i] for i in t25)
+t50_count = sum(colleges[i] for i in t50)
+
+total = sum(colleges.values())
+
+print(f"People in T20(25): {t25_count}, % of commitments: {t25_count / total * 100 : .2f}%")
+print(f"People in T50: {t50_count}, % of commitments: {t50_count / total * 100 : .2f}%")

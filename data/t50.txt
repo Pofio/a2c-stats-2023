@@ -1,0 +1,50 @@
+Princeton University
+Massachusetts Institute of Technology
+Harvard University
+Stanford University
+Yale University
+University of Chicago
+Johns Hopkins University
+University of Pennsylvania
+California Institute of Technology
+Duke University
+Northwestern University
+Dartmouth College
+Brown University
+Vanderbilt University
+Rice University
+Washington University in St. Louis
+Cornell University
+Columbia University
+University of Notre Dame
+University of California, Berkeley
+University of California, Los Angeles
+Carnegie Mellon University
+Emory University
+Georgetown University
+New York University
+University of Michigan
+University of Southern California
+University of Virginia
+University of Florida
+University of North Carolina at Chapel Hill
+Wake Forest University
+Tufts University
+University of California, Santa Barbara
+University of California, Irvine
+University of California, San Diego
+Boston College
+University of Rochester
+University of California, Davis
+University of Texas at Austin
+University of Wisconsin-Madison
+Boston University
+University of Illinois at Urbana-Champaign
+College of William & Mary
+Brandeis University
+Case Western Reserve University
+Georgia Institute of Technology
+Northeastern University
+Tulane University
+The Ohio State University
+University of Georgia

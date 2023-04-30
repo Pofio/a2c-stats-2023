@@ -50,7 +50,7 @@ JD_Baller07#9668 - Georgia Institute of Technology - Aerospace Engineering
 Icey#6430 - Georgia Institute of Technology - Computer Science, Weather
 Erik Garcia#1542 - Bowdoin College - Government and Legal Studies, Chinese, Japanese, Visual Arts
 benz#1111 - University of California, San Diego - UNKNOWN
-yas#1608 - Rutgers New Brunswick - Meteorology, Creative Writing
+yas#1608 - Rutgers University - Meteorology, Creative Writing
 Yonaseen#4184 - Stanford University - Computer Science
 Jahameb#5976 - Stanford University - UNKNOWN
 iDawg#0648 - University of Maryland - Computer Science, Government and Politics
@@ -81,7 +81,7 @@ miliana#2626 - Wellesley College - Mathematics
 rb#8613 - University of California, Berkeley - Economics, Data Science
 forever10#6924 - University of Chicago - Computer Science, Economics, Environmental Science
 tayyy#2222 - Purdue University - Genetics, Psychology
-Dr. Pill#1130 - Rutgers University, New Brunswick - Biochemistry
+Dr. Pill#1130 - Rutgers University - Biochemistry
 pottedgruyere#6484 - Florida State University - Economics
 roriii#0314 - Tufts University - Biochemistry, French
 Tyrannosaurus Rex#2938 - Case Western Reserve University - Polymer Science and Engineering, Business Management
@@ -173,8 +173,8 @@ Catsith#7644 - University of St. Andrews - Sustainable Development, Geography
 Strontium#8979 - Georgia Institute of Technology - Computer Science
 asdfqwerty#1622 - University of Illinois at Urbana-Champaign - Computer Engineering
 yeasamin#0289 - University of California, Berkeley - Anthropology
-ayakaa#8969 - University of Massachusetts Amherst - Mathematics, Statistics
-Daryl#3991 - University of Massachusetts Amherst - Neuroscience, Computer Science
+ayakaa#8969 - Amherst College - Mathematics, Statistics
+Daryl#3991 - Amherst College - Neuroscience, Computer Science
 emilyy#0302 - Cornell University - Hotel Administration
 littleboy#3822 - Cornell University - Chemical Biology
 ßląnk#4554 - Johns Hopkins University - French Horn Music Performance
@@ -259,10 +259,13 @@ nope_#8004 - Princeton University - Computer Science
 TunaFish#5555 - Northeastern University - Computer Science
 yoAdhv#5873 - North Carolina State University - Engineering
 Felpix#7321 - University of California, Santa Barbara - Computer Science, Public Policy
-yourbuddy#7880 - University of Massachusetts Amherst - Math, Economics
+yourbuddy#7880 - Amherst College - Math, Economics
 foru#3115 - Lehigh University - Computer Science, Business Honors
 KirbyDude25#7135 - Rutgers University - Computer Science
 Suz#4831 - University of California, Berkeley - Economics
 SpaghettiDabaiji#1884 - School of Visual Arts - Illustration
 itsmeomg#7187 - Stanford University - Mathematics, Data Science, Economics, Management Science
 skullrider56#4564 - George Mason University - Business
+Archir#3716 - University of Illinois at Urbana-Champaign - Electrical Engineering
+orangutan#6056 - Brown University - Mathematics, Computer Science
+crrimm#8544 - Harvard University - Molecular and Cellular Biology, History and Science, Pre-med
