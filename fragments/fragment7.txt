@@ -1,62 +1,27 @@
-I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+I will give you a series of messages written by different discord users which are separated by a new line. For each message, the author has said which university they are going to and potential areas they are interested in doing. I want you to identify the university name and the potential areas they are interested in doing. If you cannot identify the major, use UNKNOWN. If you cannot identify the university, use UNKNOWN. I want you to use university names recognized by usnews. Respond in a format like this: "author - university name - area1, etc" where the interested areas is a comma separated list. I want you to make the interested areas be standardized and have their full names without any extra modifiers. Do not add any extra "and's" in the response, separate interested areas using a comma, separate majors and minors, ignore concentrations, do not use forward slashes, ignore honors college, ignore schools/colleges within the university.
 
-shanye#6396 wrote "Committed to Dartmouth for CS + Econ + Computer Engineering    GO BIG GREEN "
-<br>
-arrow#7963 wrote "Committed to Northwestern for Computer Engineering! Go Wildcats! :demonic_cat:"
-<br>
-beehehe#5851 wrote "Committed to Skidmore for English with a minor in Film and Media Studies! Go Thoroughbreds!!! "
-<br>
-chrisbru#7697 wrote "Committed to UCLA for Biz and Poli Sci, USC sucks. GO BRUINS!"
-<br>
-jaju#2911 wrote "Committed to UCSD for Math - CS! Go Tritons"
-<br>
-JaYeSh#2397 wrote "Committed to Azim Premji University for Physics..."
-<br>
-rovarue#4462 wrote "committed to James Madison University for Bio + Theatre "
-<br>
-william#9999 wrote "Committed to Georgia Tech to study computer science!! Go Yellowjackets!   "
-<br>
-The Red Chicken#3025 wrote "Committed to the University of Toronto for Astronomy and Physics! This whole process was a wild ride and im very happy that I am able to go to my top choice!   "
-<br>
-Mythaar#5830 wrote "Committed to Cornell for Computer Science! Extremely excited!"
-<br>
-JustAnOkapi#8658 wrote "UTD for CogSci"
-<br>
-jaelyn#1267 wrote "Committed to College of Engineering @ Cornell University"
-<br>
-DanielSan#5855 wrote "committed to Colby College for computer science and music! go mules!"
-<br>
-Harry Potter#6598 wrote "Committed to Virginia Tech University for Computer Science! Let's go Hokies"
-<br>
-abhi#9999 wrote "Committed to the University of Southern California for Public Policy and Finance! Fuck UCLA and FIGHT ON!!! "
-<br>
-Tarquin#9892 wrote "Committed to the University of Wisconsin-Madison for Computer Engineering. #FutureBadger"
-<br>
-Hargun#6466 wrote "Purdue '27 for Computer Science and Mathematics!
-BOILER UPPPP "
-<br>
-katep#5603 wrote "committed to the university of pittsburgh honors college for a psychology and neuroscience double major (hopefully!) on a full ride  hail to pitt!"
-<br>
-sarawqmt#2442 wrote "commited to University of Wisconsin-Madison for compter science! ON WISCONSIN!!:blobrainbow:"
-<br>
-LukaLuka#7606 wrote "committed to University of Pennsylvania for chemistry!  "
-<br>
-alexyz#3459 wrote "committed to University of Wisconsin-Madison for comp sci!"
-<br>
-A man#0696 wrote "Committed to the University of Pittsburgh for Premed! H2P!"
-<br>
-hmm#0407 wrote "committed to University of Michigan college of engineering!!!  "
-<br>
-xNoir#6003 wrote "Committed to Purdue for Comp sci!   "
-<br>
-ahahana#4722 wrote "committed to Iowa State University as a CS major on a full tuition scholarship!! Go Cyclones!!"
-<br>
-silkberries#2253 wrote "Committed to Carnegie Mellon University (CMU) for Computer Science thank u all for coming along wit this crazy college apps ride with me could not have done it without u guys help. GO TARTANS"
-<br>
-sleepysleeper#7913 wrote "committed to the university of rochester for biochemistry on a pre-med track!! go yellowjackets "
-<br>
-Jeff#6415 wrote "Committed to Case Western for Biomedical Engineering (assuming nothing happens in waitlists). Lebron come back to Cleveland and go Spartans  :peepocelebrate:  :peepocelebrate:  :peepocelebrate:"
-<br>
-emreee#4252 wrote "Committed to University of Pennsylvania for Economics at the Wharton School. Mind blowing how just a couple months ago I was starting at the class of '26s commitments and I was mind blown looking at their amazing decisions. As a first generation student, I entered this cycle with no idea of how the admissions process worked but with the help of many amazing individuals in this server I'm going to the Ivy League. Genuinely thank you, thank you so much to everyone here, you guys have honestly changed my life :D"
-<br>
-DrPro#1737 wrote "Committed to UCR for Material Science and Engineering!"
+ayakaa#8969 wrote "Committed to Amherst College for Mathematics and Statistics! Go Mammoths!!!  "
+Daryl#3991 wrote "Committed to Amherst college for Neuroscience and computer science!! Go Mammoths "
+emilyy#0302 wrote "committed to cornell university for hotel administration!! go big red "
+littleboy#3822 wrote "Committed to Cornell University School of Arts and Sciences for chemical biology! Lets go big red! "
+ßląnk#4554 wrote "Committed to JHU Peabody Conservatory for French Horn Music Performance and double major at JHU Homewood (undecided)!!! Lets go Blue Jays!"
+sophia 🪩#7321 wrote "committed to william & mary for biology and public policy! go tribe!!  "
+connor ♡#3943 wrote "committed to brandeis for linguistics and history! roll deis!! "
+rocketmanhowie#1108 wrote "committed to wisconsin-madison for cs! on wisconsin :stonks:"
+saez#6757 wrote "committed to florida state's honors and research scholars programs with a major in commercial music and entrepreneurship (goal is to get into the music industry). GO NOLES!!!  "
+[redacted]#4709 wrote "Committed to George Washington University in D.C. for a double major in Chemistry and Political Science, with a minor in either Mathematics or CS. Extremely thankful to A2C for having gotten me this far.  RAISE HIGH THE BUFF AND BLUE!"
+Cardinal North#5890 wrote "Committed to Cal Poly SLO for City and Regional Planning! YAYA!     Texas ->Cali"
+Ky#9969 wrote "committed to clark university for a double major in computer science & psychology!!! "
+jkhanna6367#4959 wrote "Committed to USC Marshall to study Business Administration with a concentration in Finance. FIGHT ON!!   "
+Pahari#6818 wrote "committed to THE pennsylvania state university for mathematics (and possibly astronomy/astrophysics) :orz:. WE ARE!"
+Anonymoose#6914 wrote "committed to boston college as a biology major (possible minor: finance)! LET'S GO EAGLES  "
+Anomaly#7495 wrote "Committed to Duke for Computer Science!  "
+Khyathi#6017 wrote "Committed to Caltech for a Mathematics and Philosophy double major, can't wait to weep caffeinated tears in a few months :peeposadge:"
+seph#4916 wrote "committed to columbia, probably for cs or applied math, go lions!!   "
+Lyrics#5445 wrote "Committed to the University of Virginia for Computer Science! Go Hoos!    "
+the Captain#6150 wrote "committed to FSU for astrophysics on vires scholarship! hoping to also major in mathematics or another subject, GO NOLES!!!!!!!! :alphan: :alphao: :alphal: :alphae: :alphas: 2 7"
+FelizVida#9444 wrote "committed to Wake Forest for business (probably BEM) and Psychology major/minor (we'll see)!!! The Demon Deacon fits my devilish self so let's go to rural North Carolina :troll:"
+Rubi#0205 wrote "Commited to Stanford for Human Biology with a minor in Spanish!!!! GO TREES !!!!"
+ilrelta#5583 wrote "commited to ut austinussy for electrical and computer engineering hook em longhorns and bevo is  "
+raysin#4657 wrote "committed to santa clara with an intended major in MIS, and considering a minor in business analytics or psychology! GO BRONCOS!"
+an0nkar#6725 wrote "Committed to UChicago on fullride for computer science (machine learning specialization) and business economics! GO MAROONS :elmorise:!!!"

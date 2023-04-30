@@ -15,3 +15,6 @@ for i in data:
 
 a = sorted(colleges.items(), key=lambda x: x[1], reverse=True)
 b = sorted(interested_subjects.items(), key=lambda x: x[1], reverse=True)
+
+for i in a:
+    print(i)

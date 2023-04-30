@@ -1,266 +1,268 @@
-omar.#0500 - Yale University - UNKNOWN <br>
-Zass#9640 - Yale University - Ethics, Politics, and Economics <br>
-Doc4science#9778 - Grinnell College - Physics and either economics or computer science <br>
-mads<3#5312 - Boston College - Computer Science with a concentration in bioinformatics <br>
-Empyrean Sunfire⁷#0767 - Dartmouth College - CS with a double major or minor in philosophy and possibly go into pre-med <br>
-ryan#8296 - Northeastern University - Computer Science <br>
-Andу#1344 - University of Pennsylvania - Computer Science <br>
-j32923431#6124 - Washington University in St. Louis - Political Science <br>
-kiel#0641 - Columbia University - Computer Science <br>
-syllables-of-sound#1681 - Oberlin College & Conservatory - Comparative Eastern European Studies with a minor in creative writing and hopefully double major in Viola performance <br>
-apollo#6005 - Yale University - Cognitive Science and maybe ethnicity, race, and migration <br>
-nilo#9057 - Emory University - Quantitative Sciences on the Linguistics track <br>
-shinobobo#5641 - New York University - Computer Science + Mathematics with a Finance minor <br>
-ilovekittens#3137 - Stanford University - Biology <br>
-Woody Supremo#0692 - Dartmouth College - Chem/Government with a possible pre-med or pre-law track <br>
-swekmeht#5074 - Cornell University - Environmental Engineering <br>
-Galactic#4055 - Princeton University - Public Policy at the School of Public and International Affairs with a minor (certificate) in history <br>
-Sal#8008 - Brandeis University - Computer Science with a possible minor in Film, Television, and Interactive Media <br>
-Ahmaad#0659 - Dartmouth College - Quantitative Social Science <br>
-boomboom#6520 - Johns Hopkins University - Computer Science with (most likely) a minor in philosophy or economics <br>
-Shifting_baselines_#4769 - Dartmouth College - Environmental Studies with Public Policy & Neuroscience minor <br>
-Vinny#9301 - University of Pennsylvania SEAS - Computer Science with a minor in Mathematics <br>
-bigmacluvr#2795 - Dartmouth College - Economics and Computer Science <br>
-Chip#3890 - Northwestern University - Dual degrees in oboe performance and computer engineering <br>
-saucy#7123 - Duke University - Statistics + Global Health <br>
-MidnightTheDel#6794 - Northwestern University - Journalism <br>
-aaryunik#3110 - Cornell University College of Engineering - Computer Science or Operations Research & Engineering <br>
-Mr. Abraxos#3018 - University of Alabama - Computer Science with a minor in finance or something similar <br>
-elixir#8734 - Columbia University's Fu Foundation School of Engineering and Applied Sciences - Computer Science <br>
-edan#4188 - UNKNOWN - UNKNOWN
-Gues✞#4813 - Columbia University - Polisci and violin performance<br>
-jerry!#2618 - George Washington University - Polisci (possibly double with econ)<br>
-nickisapisces#4090 - Duke University - Poli Sci and Comp Sci<br>
-rebexa#6661 - Bowdoin College - Sociology and Govt+Legal Studies<br>
-Sumneer#0001 - Brown University - Business, Entrepreneurship, and Organizations<br>
-LiberalShillLuke91#3934 - West Virginia University - PoliSci with a concentration on elections and campaigns<br>
-Cyxh#6666 - Harvard University - Physics (undecided)<br>
-parabirb#5688 - University of Texas at Dallas - Computer Science<br>
-Violet?#0067 - Barnard College of Columbia University - Computer Science and Film<br>
-Ashmit#7821 - New York University at Abu Dhabi - Econ (undecided)<br>
-iz#7072 - University of Pennsylvania - Psychology<br>
-pineapple#2975 - Barnard College of Columbia University - Undecided (probably Urban Studies)<br>
-Ramen#2785 - University of Chicago - CS/ECON<br>
-tlothomas21#5640 - University of Chicago - Neuroscience<br>
-soymilqe#4642 - George Washington University - Political Science<br>
-iWontTry#1764 - Vanderbilt University - Mathematics (possibly double with comp sci)<br>
-zango#9819 - Cornell University - Computer Science (possibly minor in Environment & Sustainability)<br>
-mol#9686 - Northeastern University - Cell and Molecular Biology<br>
-JD_Baller07#9668 - Georgia Tech - Aerospace Engineering<br>
-Icey#6430 - Georgia Tech - CS (with threads in Modeling & Simulation and ???) (minor in Weather)<br>
-Erik Garcia#1542 - Bowdoin College - Government and Legal Studies (minor in Chinese, Japanese, or Visual Arts)<br>
-benz#1111 - University of California - UNKNOWN<br>
-yas#1608 - Rutgers University New Brunswick - Meteorology (possibly minor in Creative Writing)<br>
-Yonaseen#4184 - Stanford University - CS<br>
-Jahameb#5976 - Stanford University - UNKNOWN<br>
-iDawg#0648 - University of Maryland at College Park - Computer Science and Government and Politics (double major)<br>
-Shrimp#0719 - University of Massachusetts Amherst - Informatics (possibly minor or double major in Music Performance)<br>
-majruism#5299 - Washington University in St. Louis - Architecture (minor in Landscape Architecture)<br>
-AChip#4111 - Northeastern University - CS + Math combined major<br>
+omar.#0500 - Yale University - UNKNOWN
+Zass#9640 - Yale University - Ethics, Politics, Economics
+Doc4science#9778 - Grinnell College - Physics, Economics, Computer Science
+mads<3#5312 - Boston College - Computer Science, Bioinformatics
+Empyrean Sunfire⁷#0767 - Dartmouth College - Computer Science, Philosophy, Pre-Med
+ryan#8296 - Northeastern University - Computer Science
+Andу#1344 - University of Pennsylvania - Computer Science
+j32923431#6124 - Washington University in St. Louis - Political Science
+kiel#0641 - Columbia University - Computer Science
+syllables-of-sound#1681 - Oberlin College & Conservatory - Comparative Eastern European Studies, Creative Writing, Viola Performance
+apollo#6005 - Yale University - Cognitive Science, Ethnicity Race and Migration
+nilo#9057 - Emory University - Quantitative Sciences, Linguistics
+shinobobo#5641 - New York University - Computer Science, Mathematics, Finance
+ilovekittens#3137 - Stanford University - Biology
+Woody Supremo#0692 - Dartmouth College - Chemistry, Government, Pre-Med, Pre-Law
+swekmeht#5074 - Cornell University - Environmental Engineering
+Galactic#4055 - Princeton University - Public Policy, History
+Sal#8008 - Brandeis University - Computer Science, Film Television and Interactive Media
+Ahmaad#0659 - Dartmouth College - Quantitative Social Science
+boomboom#6520 - Johns Hopkins University - Computer Science, Philosophy, Economics
+Shifting_baselines_#4769 - Dartmouth College - Environmental Studies, Public Policy, Neuroscience
+Vinny#9301 - University of Pennsylvania - Computer Science, Mathematics
+bigmacluvr#2795 - Dartmouth College - Economics, Computer Science
+Chip#3890 - Northwestern University - Oboe Performance, Computer Engineering
+saucy#7123 - Duke University - Statistics, Global Health
+MidnightTheDel#6794 - Northwestern University - Journalism
+aaryunik#3110 - Cornell University - Computer Science, Operations Research & Engineering
+Mr. Abraxos#3018 - University of Alabama - Computer Science, Finance
+elixir#8734 - Columbia University - Computer Science
+edan#4188 - Williams College - Humanities, Visual Arts
+Gues✞#4813 - Columbia University - Political Science, Violin Performance
+jerry!#2618 - George Washington University - Political Science, Economics
+nickisapisces#4090 - Duke University - Political Science, Computer Science
+rebexa#6661 - Bowdoin College - Sociology, Government and Legal Studies
+Sumneer#0001 - Brown University - Business, Entrepreneurship, Organizations
+LiberalShillLuke91#3934 - West Virginia University - Political Science
+Cyxh#6666 - Harvard University - Physics
+parabirb#5688 - University of Texas at Dallas - Computer Science
+Violet?#0067 - Columbia University - Computer Science, Film
+Ashmit#7821 - New York University Abu Dhabi - Economics
+iz#7072 - University of Pennsylvania - Psychology
+pineapple#2975 - Columbia University - Urban Studies
+Ramen#2785 - University of Chicago - Computer Science, Economics
+tlothomas21#5640 - University of Chicago - Neuroscience
+soymilqe#4642 - George Washington University - Political Science
+iWontTry#1764 - Vanderbilt University - Mathematics, Computer Science
+zango#9819 - Cornell University - Computer Science, Environment & Sustainability
+mol#9686 - Northeastern University - Cell and Molecular Biology
+JD_Baller07#9668 - Georgia Institute of Technology - Aerospace Engineering
+Icey#6430 - Georgia Institute of Technology - Computer Science, Weather
+Erik Garcia#1542 - Bowdoin College - Government and Legal Studies, Chinese, Japanese, Visual Arts
+benz#1111 - University of California, San Diego - UNKNOWN
+yas#1608 - Rutgers New Brunswick - Meteorology, Creative Writing
+Yonaseen#4184 - Stanford University - Computer Science
+Jahameb#5976 - Stanford University - UNKNOWN
+iDawg#0648 - University of Maryland - Computer Science, Government and Politics
+Shrimp#0719 - University of Massachusetts Amherst - Informatics, Music Performance
+majruism#5299 - Washington University in St. Louis - Architecture, Landscape Architecture
+AChip#4111 - Northeastern University - Computer Science, Math
 derpytbh#1239 - Northeastern University - Behavioral Neuroscience
-Mew#1016 - Brandeis University - Computer Science<br>
-buggy#8710 - Georgia Tech - Business Administration<br>
-indigojuly#6007 - UPenn - Economics<br>
-bray#3333 - UT Austin - Biology<br>
-iqloos#3757 - Fordham Rose Hill - Finance<br>
-ja$on#2626 - Western Michigan University - Professional Flight (Aviation)<br>
-TDog92#7921 - Colgate University - Biochemistry<br>
-simpaditya#6927 - Michigan State University - UNKNOWN<br>
-Falaxsa#9925 - Georgia Tech - Computer Science<br>
-elizabeth#0274 - Yale University - Theatre and Political Science<br>
-Sie#9735 - Wellesley College - Psychology and Sociology<br>
-carly#6241 - Wellesley College - UNKNOWN<br>
-Soph.Isticated#8679 - University of Chicago - Philosophy<br>
-ko#9442 - Vanderbilt University - Biology (Pre-med track)<br>
-Grin#1933 - New York University Shanghai - International Relations and Business & Marketing<br>
-houseofballoons#0003 - Columbia College Chicago - UNKNOWN<br>
-samberrypie#3402 - University of Alabama - Bio (Pre-med track) with a potential Theatre minor<br>
-Ninjasolver#6980 - Cornell University - Computer Science with Astronomy<br>
-ApexLight#0420 - Michigan State University - Undecided<br>
-miliana#2626 - Wellesley College - Mathematics<br>
-rb#8613 - UC Berkeley - Economics with a minor in Data Science<br>
-forever10#6924 - University of Chicago - Computer Science with possible minors in Econ and Environmental Science<br>
-tayyy#2222 - Purdue University (Honors College) - Genetics with a potential minor in Psychology<br>
-Dr. Pill#1130 - Rutgers New Brunswick - Biochemistry<br>
-pottedgruyere#6484 - Florida State University (Honors Program) - Economics<br>
-roriii#0314 - Tufts University - Biochemistry on a Pre-med track & French<br>
-Tyrannosaurus Rex#2938 - Case Western Reserve University - Polymer Science and Engineering with a minor in Business Management<br>
-Yoco#2008 - MIT - Computer Science with a focus on AI or CS+EE<br>
-ChipsOn17#1573 - University of Pittsburgh - Computer Science<br>
-fatpunani#6440 - Colgate University - Applied Mathematics with potential minors in Economics and Computer Science.
-scott_#5909 - Emerson College - Film<br>
-gooseo#5836 - Bowdoin College - Economics/Biochemistry<br>
-itzmelauryn#1221 - Oregon State University - Marketing<br>
-Soba#4794 - University of Florida - Computer Science<br>
-cadwi#5103 - University of Rochester - Environmental Science/Music<br>
-barometer#9333 - University of Alabama - Engineering<br>
-Meech#4880 - Northeastern University - Computer Science/Math<br>
-Cyanideeeeeee#4261 - UC Davis - Undeclared (Life Sciences)<br>
-hashbrown#0116 - Wellesley College - Undecided<br>
-Keybored#3705 - UC San Diego - Computer Engineering<br>
-sev#0001 - UC Berkeley - Electrical Engineering and Computer Sciences (EECS)<br>
-jenerally_speaking#8487 - Vanderbilt University - Economics<br>
-alicia#8888 - UCLA - Design Media Arts<br>
-samiha#0519 - University of Michigan - Biomedical Engineering<br>
-Yashbertosaurus#2784 - Purdue University - Computer Engineering<br>
-nadya | gatech ‘27#1352 - Kennesaw State University (freshman year), Georgia Tech (Biochemistry) - Transfer<br>
-Trifolds#1947 - University of Texas at Austin - Mechanical Engineering<br>
-Rye | CS & Finance#9567 - Boston University - Finance/Computer Science<br>
-droov#1038 - University of Pennsylvania - Computer Science<br>
-Calypso#9517 - Columbia University - Astrophysics/Public Policy<br>
-loopy#8232 - Tufts University - Econ/CS<br>
-subaru#1450 - Amherst College - Physics/Computer Science<br>
-LuminescentLight#4093 - University of Michigan - Mathematics<br>
-FlamingBD#8800 - Purdue University (Honors) - Airline Management and Operations<br>
-DC25#3546 - UC Berkeley - Electrical Engineering and Computer Science<br>
-KeroppiCake#4144 - Harvard University - Physics/English<br>
-cheezyg#9221 - UNC-Chapel Hill - Physics/Computer Science<br>
-oklahoma city#6027 - UC Irvine - Computer Science<br>
-yoda from star trek#9080 - University of Connecticut - Business Undecided<br>
-a d d y#2129 - UC Berkeley - Mathematics/Sociology
-fake tux#6916 - Princeton University - Computer Science with a certificate in Robotics and Intelligent Systems<br>
-brick#8362 - University of Pennsylvania - Physics with a possible minor in Theatre Arts<br>
-birb#5297 - UC Berkeley - Applied Mathematics<br>
-xd husky#5451 - Case Western Reserve University - Data Science with a minor in Management<br>
-Azis#6842 - Swarthmore College - CS and Psychology<br>
-ynb#3289 - University of Maryland LTSC - Computer Science<br>
-corayue#8497 - Sophie Davis School of Medicine/The CUNY School of Medicine - Biomedical Science<br>
-mattoo#6594 - UT Austin + Honors - Mechanical Engineering<br>
-MJM13#5900 - Georgetown University's Walsh School of Foreign Service - International Politics<br>
-william_cwang#3963 - University of Washington - Informatics<br>
-cherrypicked#2127 - University of Florida - Computer Science<br>
-crustedchickenpasta#2181 - Johns Hopkins University - Biomedical Engineering<br>
-FireOfPies!#4330 - Rowan University - Sports Communication and Media, hopeful double major in Communication Studies<br>
-✿ Adrian ✿#7127 - University of California, San Diego - Interdisciplinary computing and the arts, potentially double majoring in cognitive science<br>
-Kosargsosod#2092 - Purdue University - Integrated Business and Engineering, John Martinson Honours College<br>
-meower#3840 - Georgia Tech - CS<br>
-JadenStar10#3620 - New Jersey Institute of Technology Albert Dorman Honors College - Computer Science<br>
-ion05#2227 - Purdue University - Computer Science<br>
-Viv#2459 - Boston University - Music, potential minor in French<br>
-Kris#6627 - American University - Political Science<br>
-nasir#0343 - University of Miami - Computer Science, potential minor in Interactive Media<br>
-xuaaelin#6089 - UC Berkeley - Bioengineering + Business<br>
-jayyyy#6626 - University of Maryland LTSC - Computer Science<br>
-Abhiram#1893 - Caltech - Physics+Mathematics<br>
-Dari#4600 - Singidunum University - English<br>
-Tazzo#1112 - Northwestern - Economics<br>
-lizy liz#1184 - Washington University in St. Louis - Chemistry on a Pre-Med track<br>
-charls#0001 - University of Chicago - Economics in a 4+1 program<br>
-badfacepainting#6705 - Brown University - Concentrations in music and literary arts<br>
-oskalos#6990 - Brown University - Double concentrating in Computer Science and Applied Math-Economics
-Teafly#9190 - University of Maryland College Park - Computer Science with a minor in Business Analytics<br>
-pinkgrapefruit#4123 - Rice University - Business (with possible minor in unknown)<br>
-Chief Jr.#8274 - Columbia University - Astrophysics<br>
-eliana#8979 - University of Pennsylvania - Computer Science<br>
-Lord_Aditya#1136 - Arizona State University - Computer Science<br>
-阿樂#9880 - University of North Carolina at Chapel Hill - Mathematics (with a possible double major in Philosophy and a minor in Music)<br>
-viv#0556 - St. Lawrence University - Geology and Anthropology<br>
-whack#5659 - University of Michigan - Biology (with a possible minor in Business/Economics)<br>
-SoupCat#1763 - University of North Carolina at Chapel Hill - Business<br>
-WizardLizard#8153 - University of Texas at Dallas - Biology<br>
-MilesArcher#3915 - University of Illinois at Urbana-Champaign - Computer Science<br>
-Shiven#7069 - University of California, Berkeley - Environmental Economics and Policy<br>
-Gandalf#3446 - Wabash College - Computer Science (with a minor in Math)<br>
-Stelleron#7173 - University of Massachusetts Amherst - Computer Science<br>
-AC-130#0001 - Rice University - Mechanical Engineering<br>
-chimera#0123 - Cornell University - Computer Science<br>
-s1ns#0007 - University of Wisconsin-Madison - Computer Science<br>
-aquaright1#2345 - University of California, Berkeley - Pure Math and Statistics<br>
-Khang#8188 - University of Massachusetts - Computer Science<br>
-Crawler#2635 - Rochester Institute of Technology - Computer Science<br>
-Rynox#2989 - Carnegie Mellon University - Chemical Engineering (with a possible minor in Computer Science)<br>
-Catsith#7644 - University of St. Andrews - Sustainable Development and Geography<br>
-Strontium#8979 - Georgia Institute of Technology - Computer Science<br>
-asdfqwerty#1622 - University of Illinois at Urbana-Champaign - Computer Engineering<br>
-yeasamin#0289 - University of California, Berkeley - Anthropology<br>
-ayakaa#8969 - Amherst College - Mathematics and Statistics<br>
-Daryl#3991 - Amherst College - Neuroscience and Computer Science<br>
-emilyy#0302 - Cornell University - Hotel Administration<br>
-littleboy#3822 - Cornell University - Chemical Biology<br>
-ßląnk#4554 - Johns Hopkins University - Peabody Conservatory for French Horn Music Performance and undecided major at JHU Homewood
-sophia 🪩#7321 - William & Mary - Biology and Public Policy <br>
-connor ♡#3943 - Brandeis - Linguistics and History <br>
-rocketmanhowie#1108 - Wisconsin-Madison - Computer Science <br>
-saez#6757 - Florida State University - Commercial Music and Entrepreneurship <br>
-[redacted]#4709 - George Washington University - Chemistry and Political Science (minor in Mathematics or CS) <br>
-Cardinal North#5890 - Cal Poly SLO - City and Regional Planning <br>
-Ky#9969 - Clark University - Computer Science and Psychology <br>
-jkhanna6367#4959 - University of Southern California (USC) Marshall - Business Administration with a concentration in Finance <br>
-Pahari#6818 - Pennsylvania State University (Penn State) - Mathematics (possibly Astronomy/Astrophysics) <br>
-Anonymoose#6914 - Boston College - Biology (possible minor in Finance) <br>
-Anomaly#7495 - Duke University - Computer Science <br>
-Khyathi#6017 - California Institute of Technology (Caltech) - Mathematics and Philosophy <br>
-seph#4916 - Columbia University - Computer Science or Applied Mathematics <br>
-Lyrics#5445 - University of Virginia - Computer Science <br>
-the Captain#6150 - Florida State University - Astrophysics (possibly Mathematics or another subject) <br>
-FelizVida#9444 - Wake Forest University - Business (possibly BEM) and Psychology major/minor <br>
-Rubi#0205 - Stanford University - Human Biology (minor in Spanish) <br>
-ilrelta#5583 - University of Texas at Austin - Electrical and Computer Engineering <br>
-raysin#4657 - Santa Clara University - Management Information Systems (possibly a minor in Business Analytics or Psychology) <br>
-an0nkar#6725 - University of Chicago - Computer Science (machine learning specialization) and Business Economics <br>
-DuckinaHoodie#6118 - University of California San Diego (UCSD) - Theatre (possibly a double major) <br>
-Etherite#1387 - Yale University - Computer Science and Math <br>
-FirestarXYZ#0035 - Yale University - Computer Science <br>
-ʎʇsıɹɥɔ#7102 - Case Western Reserve University - Neuroscience (minor in CS and Spanish, considering a minor in Chemistry) <br>
-boba#5232 - Stanford University - Political Science and Economics (Pre-Law Track with a minor in South Asian Studies) <br>
-squishyalmighty#0520 - University of California San Diego (UCSD) - Cognitive Science (possible minor in Music) <br>
-krispygiraffe#7219 - William & Mary - Biology or Math (Pre-Med Track) <br>
-jitslayer#4959 - University of Pittsburgh (Pitt) - Physics and Quantum Computing <br>
-farway#3304 - Appalachian State University - Political Science (minor in Community and Regional Planning or Geography) <br>
-unofficialmilkman#8736 - SUNY New Paltz - English <br>
-shanye#6396 - Dartmouth - CS + Econ + Computer Engineering <br>
-arrow#7963 - Northwestern - Computer Engineering <br>
-beehehe#5851 - Skidmore - English (minor in Film and Media Studies) <br>
-chrisbru#7697 - UCLA - Biz and Poli Sci <br>
-jaju#2911 - UCSD - Math - CS <br>
-JaYeSh#2397 - Azim Premji University - Physics <br>
-rovarue#4462 - James Madison University - Bio + Theatre <br>
-william#9999 - Georgia Tech - computer science <br>
-The Red Chicken#3025 - University of Toronto - Astronomy and Physics <br>
-Mythaar#5830 - Cornell - Computer Science <br>
-JustAnOkapi#8658 - UTD - CogSci <br>
-jaelyn#1267 - Cornell University - Unknown <br>
-DanielSan#5855 - Colby College - computer science and music <br>
-Harry Potter#6598 - Virginia Tech University - Computer Science <br>
-abhi#9999 - University of Southern California - Public Policy and Finance <br>
-Tarquin#9892 - University of Wisconsin-Madison - Computer Engineering <br>
-Hargun#6466 - Purdue University - Computer Science and Mathematics <br>
-katep#5603 - University of Pittsburgh - psychology and neuroscience double major <br>
-sarawqmt#2442 - University of Wisconsin-Madison - computer science <br>
-LukaLuka#7606 - University of Pennsylvania - chemistry <br>
-alexyz#3459 - University of Wisconsin-Madison - computer science <br>
-A man#0696 - University of Pittsburgh - Premed <br>
-hmm#0407 - University of Michigan - College of Engineering <br>
-xNoir#6003 - Purdue University - Comp Sci <br>
-ahahana#4722 - Iowa State University - CS <br>
-silkberries#2253 - Carnegie Mellon University - Computer Science <br>
-sleepysleeper#7913 - University of Rochester - biochemistry (pre-med) <br>
-Jeff#6415 - Case Western - Biomedical Engineering <br>
-emreee#4252 - University of Pennsylvania - Economics (Wharton School) <br>
-DrPro#1737 - UCR - Material Science and Engineering
-MakiN#6125 - University of Rochester - Computer Science and possibly minor in Econ <br>
-Naiad#0001 - Northwestern University - Econ <br>
-Kingddd7777#4429 - USC - Finance/CS <br>
-pi3rce#6958 - Saint Anselm College - UNKNOWN <br>
-himothy#9046 - Harvard College - CS <br>
-forky#1292 - USC - Environmental Engineering <br>
-yera#0017 - University of Notre Dame - Political Science and minor in PPE <br>
-LynxeonLiv#1806 - Johns Hopkins - Biology and Film on a Pre-Med track <br>
-AloeAlan#6087 - Northwestern University - Econ and/or IE and/or CS <br>
-mich???#7698 - Cornell University - Electrical and Computer Engineering <br>
-chloeee#4813 - Case Western Reserve University - Physics, pre-med <br>
-Gigaswag#6677 - Vanderbilt University - Biomedical Engineering on a pre-med track <br>
-CrabKingMike#7979 - Princeton University - CS AB and potentially minor in Geosciences <br>
-twolf#0560 - Grinnell College - Independent major in Logic and Computation <br>
-thats what she said#8312 - Virginia Tech - Computer Science and possible minor in Business <br>
-angie#4732 - University of Michigan's Ross School of Business - Business <br>
-shiver#1211 - William and Mary - Government and minor in Theater <br>
-nope_#8004 - Princeton University - Computer Science <br>
-TunaFish#5555 - Northeastern University - Computer Science <br>
-yoAdhv#5873 - NC State - Engineering <br>
-Felpix#7321 - UCSB - CS and Public Policy <br>
-yourbuddy#7880 - Amherst College - Math and Econ <br>
-foru#3115 - Lehigh University - Computer Science and Business Honors program <br>
-KirbyDude25#7135 - Rutgers-New Brunswick - Computer Science as part of the Honors College <br>
-Suz#4831 - UC Berkeley - Econ <br>
+Mew#1016 - Brandeis University - Computer Science
+buggy#8710 - Georgia Institute of Technology - Business Administration, Computer Science
+indigojuly#6007 - University of Pennsylvania - Economics
+bray#3333 - University of Texas at Austin - Biology
+iqloos#3757 - Fordham Rose Hill - Finance
+ja$on#2626 - Western Michigan University - Professional Flight
+TDog92#7921 - Colgate University - Biochemistry
+simpaditya#6927 - Michigan State University - UNKNOWN
+Falaxsa#9925 - Georgia Institute of Technology - Computer Science
+elizabeth#0274 - Yale University - Theatre, Political Science
+Sie#9735 - Wellesley College - Psychology, Sociology
+carly#6241 - UNKNOWN - UNKNOWN
+Soph.Isticated#8679 - University of Chicago - Philosophy
+ko#9442 - Vanderbilt University - Biology
+Grin#1933 - New York University Shanghai - International Relations, Business, Marketing
+houseofballoons#0003 - Columbia College Chicago - UNKNOWN
+samberrypie#3402 - University of Alabama - Biology, Theatre
+Ninjasolver#6980 - Cornell University - Computer Science, Astronomy
+ApexLight#0420 - Michigan State University - UNKNOWN
+miliana#2626 - Wellesley College - Mathematics
+rb#8613 - University of California, Berkeley - Economics, Data Science
+forever10#6924 - University of Chicago - Computer Science, Economics, Environmental Science
+tayyy#2222 - Purdue University - Genetics, Psychology
+Dr. Pill#1130 - Rutgers University, New Brunswick - Biochemistry
+pottedgruyere#6484 - Florida State University - Economics
+roriii#0314 - Tufts University - Biochemistry, French
+Tyrannosaurus Rex#2938 - Case Western Reserve University - Polymer Science and Engineering, Business Management
+Yoco#2008 - Massachusetts Institute of Technology (MIT) - Computer Science, Artificial Intelligence, Electrical Engineering
+ChipsOn17#1573 - University of Pittsburgh - Computer Science
+fatpunani#6440 - Colgate University - Applied Mathematics, Economics, Computer Science
+scott_#5909 - Emerson College - Film
+gooseo#5836 - Bowdoin College - Economics, Biochemistry
+itzmelauryn#1221 - Oregon State University - Marketing, New Media Communications
+Soba#4794 - University of Florida - Computer Science, Engineering
+cadwi#5103 - University of Rochester - Environmental Science, Music
+barometer#9333 - University of Alabama - Engineering
+Meech#4880 - Northeastern University - Computer Science, Mathematics
+Cyanideeeeeee#4261 - University of California, Davis - Life Sciences, Political Science
+hashbrown#0116 - Wellesley College - UNKNOWN
+Keybored#3705 - University of California, San Diego - Computer Engineering
+sev#0001 - University of California, Berkeley - Electrical Engineering, Computer Sciences
+jenerally_speaking#8487 - Vanderbilt University - Economics
+alicia#8888 - University of California, Los Angeles - Design Media Arts
+samiha#0519 - University of Michigan - Biomedical Engineering
+Yashbertosaurus#2784 - Purdue University - Computer Engineering
+nadya | gatech ‘27#1352 - Georgia Institute of Technology - Biochemistry
+Trifolds#1947 - University of Texas at Austin - Mechanical Engineering
+Rye | CS & Finance#9567 - Boston University - Finance, Computer Science
+droov#1038 - University of Pennsylvania - Computer Science
+Calypso#9517 - Columbia University - Astrophysics, Public Policy
+loopy#8232 - Tufts University - Economics, Computer Science
+subaru#1450 - University of Massachusetts Amherst - Physics, Computer Science
+LuminescentLight#4093 - University of Michigan - Mathematics
+FlamingBD#8800 - Purdue University - Airline Management and Operations
+DC25#3546 - University of California, Berkeley - Electrical Engineering, Computer Science
+KeroppiCake#4144 - Harvard University - Physics, English
+cheezyg#9221 - University of North Carolina at Chapel Hill - Physics, Computer Science, Applied Sciences and Engineering
+oklahoma city#6027 - University of California, Irvine - Computer Science
+yoda from star trek#9080 - University of Connecticut - Business Undecided
+a d d y#2129 - University of California, Berkeley - Mathematics, Sociology
+fake tux#6916 - Princeton University - Computer Science, Robotics and Intelligent Systems
+brick#8362 - University of Pennsylvania - Physics, Theatre Arts
+birb#5297 - University of California, Berkeley - Applied Mathematics
+xd husky#5451 - Case Western Reserve University - Data Science, Management
+Azis#6842 - Swarthmore College - Computer Science, Psychology
+ynb#3289 - University of Maryland - Computer Science
+corayue#8497 - CUNY School of Medicine - Biomedical Science
+mattoo#6594 - University of Texas at Austin - Mechanical Engineering
+MJM13#5900 - Georgetown University - International Politics
+william_cwang#3963 - University of Washington - Informatics
+cherrypicked#2127 - University of Florida - Computer Science
+crustedchickenpasta#2181 - Johns Hopkins University - Biomedical Engineering
+FireOfPies!#4330 - Rowan University - Sports Communication and Media, Communication Studies
+✿ Adrian ✿#7127 - University of California, San Diego - Interdisciplinary Computing and the Arts, Cognitive Science
+Kosargsosod#2092 - Purdue University - Integrated Business and Engineering
+meower#3840 - Georgia Institute of Technology - Computer Science
+JadenStar10#3620 - New Jersey Institute of Technology - Computer Science
+ion05#2227 - Purdue University - Computer Science
+Viv#2459 - Boston University - Music, French
+Kris#6627 - American University - Political Science
+nasir#0343 - University of Miami - Computer Science, Interactive Media
+xuaaelin#6089 - University of California, Berkeley - Bioengineering, Business
+jayyyy#6626 - University of Maryland - Computer Science
+Abhiram#1893 - California Institute of Technology - Physics, Mathematics
+Dari#4600 - Singidunum University - English
+Tazzo#1112 - Northwestern University - Economics
+lizy liz#1184 - Washington University in St. Louis - Chemistry, Pre-med
+charls#0001 - University of Chicago - Economics
+badfacepainting#6705 - Brown University - Music, Literary Arts
+oskalos#6990 - Brown University - Computer Science, Applied Mathematics, Economics
+Teafly#9190 - University of Maryland - Computer Science, Business Analytics
+pinkgrapefruit#4123 - Rice University - Business
+Chief Jr.#8274 - Columbia University - Astrophysics
+eliana#8979 - University of Pennsylvania - Computer Science
+Lord_Aditya#1136 - Arizona State University - Computer Science
+阿樂#9880 - University of North Carolina at Chapel Hill - Mathematics, Philosophy, Music
+viv#0556 - St. Lawrence University - Geology, Anthropology
+whack#5659 - University of Michigan - Biology, Business, Economics
+SoupCat#1763 - University of North Carolina at Chapel Hill - Business
+WizardLizard#8153 - University of Texas at Dallas - Biology
+MilesArcher#3915 - University of Illinois at Urbana-Champaign - Computer Science
+Shiven#7069 - University of California, Berkeley - Environmental Economics and Policy
+Gandalf#3446 - Wabash College - Computer Science, Math
+Stelleron#7173 - University of Massachusetts Amherst - Computer Science
+AC-130#0001 - Rice University - Mechanical Engineering
+chimera#0123 - Cornell University - Computer Science
+s1ns#0007 - University of Wisconsin-Madison - Computer Science
+aquaright1#2345 - University of California, Berkeley - Mathematics, Statistics
+Khang#8188 - University of Massachusetts - Computer Science
+Crawler#2635 - Rochester Institute of Technology - Computer Science
+Rynox#2989 - Carnegie Mellon University - Chemical Engineering, Computer Science
+Catsith#7644 - University of St. Andrews - Sustainable Development, Geography
+Strontium#8979 - Georgia Institute of Technology - Computer Science
+asdfqwerty#1622 - University of Illinois at Urbana-Champaign - Computer Engineering
+yeasamin#0289 - University of California, Berkeley - Anthropology
+ayakaa#8969 - University of Massachusetts Amherst - Mathematics, Statistics
+Daryl#3991 - University of Massachusetts Amherst - Neuroscience, Computer Science
+emilyy#0302 - Cornell University - Hotel Administration
+littleboy#3822 - Cornell University - Chemical Biology
+ßląnk#4554 - Johns Hopkins University - French Horn Music Performance
+sophia 🪩#7321 - College of William & Mary - Biology, Public Policy
+connor ♡#3943 - Brandeis University - Linguistics, History
+rocketmanhowie#1108 - University of Wisconsin-Madison - Computer Science
+saez#6757 - Florida State University - Commercial Music, Entrepreneurship
+[redacted]#4709 - George Washington University - Chemistry, Political Science, Mathematics, Computer Science
+Cardinal North#5890 - California Polytechnic State University-San Luis Obispo - City and Regional Planning
+Ky#9969 - Clark University - Computer Science, Psychology
+jkhanna6367#4959 - University of Southern California - Business Administration
+Pahari#6818 - Pennsylvania State University - Mathematics, Astronomy, Astrophysics
+Anonymoose#6914 - Boston College - Biology, Finance
+Anomaly#7495 - Duke University - Computer Science
+Khyathi#6017 - California Institute of Technology - Mathematics, Philosophy
+seph#4916 - Columbia University - Computer Science, Applied Mathematics
+Lyrics#5445 - University of Virginia - Computer Science
+the Captain#6150 - Florida State University - Astrophysics, Mathematics
+FelizVida#9444 - Wake Forest University - Business, Psychology
+Rubi#0205 - Stanford University - Biology, Spanish
+ilrelta#5583 - University of Texas at Austin - Electrical and Computer Engineering
+raysin#4657 - Santa Clara University - Management Information Systems, Business Analytics, Psychology
+an0nkar#6725 - University of Chicago - Computer Science, Business Economics
+DuckinaHoodie#6118 - University of California, San Diego - Theatre
+Etherite#1387 - Yale University - Computer Science, Math
+FirestarXYZ#0035 - Yale University - Computer Science
+ʎʇsıɹɥɔ#7102 - Case Western Reserve University - Neuroscience, Computer Science, Spanish, Chemistry
+boba#5232 - Stanford University - Political Science, Economics, South Asian Studies
+squishyalmighty#0520 - University of California, San Diego - Cognitive Science, Music
+krispygiraffe#7219 - College of William & Mary - Biology, Math
+jitslayer#4959 - University of Pittsburgh - Physics, Quantum Computing
+farway#3304 - Appalachian State University - Political Science, Community and Regional Planning, Geography
+unofficialmilkman#8736 - State University of New York, New Paltz - English
+shanye#6396 - Dartmouth College - Computer Science, Economics, Computer Engineering
+arrow#7963 - Northwestern University - Computer Engineering
+beehehe#5851 - Skidmore College - English, Film and Media Studies
+chrisbru#7697 - University of California, Los Angeles - Business, Political Science
+jaju#2911 - University of California, San Diego - Math, Computer Science
+JaYeSh#2397 - Azim Premji University - Physics
+rovarue#4462 - James Madison University - Biology, Theatre
+william#9999 - Georgia Institute of Technology - Computer Science
+The Red Chicken#3025 - University of Toronto - Astronomy, Physics
+Mythaar#5830 - Cornell University - Computer Science
+JustAnOkapi#8658 - University of Texas at Dallas - Cognitive Science
+jaelyn#1267 - Cornell University - Engineering
+DanielSan#5855 - Colby College - Computer Science, Music
+Harry Potter#6598 - Virginia Polytechnic Institute - Computer Science
+abhi#9999 - University of Southern California - Public Policy, Finance
+Tarquin#9892 - University of Wisconsin-Madison - Computer Engineering
+Hargun#6466 - Purdue University - Computer Science, Mathematics
+katep#5603 - University of Pittsburgh - Psychology, Neuroscience
+sarawqmt#2442 - University of Wisconsin-Madison - Computer Science
+LukaLuka#7606 - University of Pennsylvania - Chemistry
+alexyz#3459 - University of Wisconsin-Madison - Computer Science
+A man#0696 - University of Pittsburgh - Pre-Med
+hmm#0407 - University of Michigan - Biomedical Engineering
+xNoir#6003 - Purdue University - Computer Science
+ahahana#4722 - Iowa State University - Computer Science
+silkberries#2253 - Carnegie Mellon University - Computer Science
+sleepysleeper#7913 - University of Rochester - Biochemistry, Pre-Med
+Jeff#6415 - Case Western Reserve University - Biomedical Engineering
+emreee#4252 - University of Pennsylvania - Economics
+DrPro#1737 - University of California, Riverside - Material Science and Engineering
+MakiN#6125 - University of Rochester - Computer Science, Economics
+Naiad#0001 - Northwestern University - Economics
+Kingddd7777#4429 - University of Southern California - Finance, Computer Science
+pi3rce#6958 - Saint Anselm College - Track and Field
+himothy#9046 - Harvard University - Computer Science
+forky#1292 - University of Southern California - Environmental Engineering
+yera#0017 - University of Notre Dame - Political Science, Philosophy, Economics
+LynxeonLiv#1806 - Johns Hopkins University - Biology, Film, Pre-Med
+AloeAlan#6087 - Northwestern University - Economics, Industrial Engineering, Computer Science
+mich???#7698 - Cornell University - Electrical Engineering, Computer Engineering
+chloeee#4813 - Case Western Reserve University - Physics, Pre-Med
+Gigaswag#6677 - Vanderbilt University - Biomedical Engineering, Pre-Med
+CrabKingMike#7979 - Princeton University - Computer Science, Geosciences
+twolf#0560 - Grinnell College - Logic and Computation
+thats what she said#8312 - Virginia Tech - Computer Science, Business
+angie#4732 - University of Michigan - Business
+shiver#1211 - College of William & Mary - Government, Theater
+nope_#8004 - Princeton University - Computer Science
+TunaFish#5555 - Northeastern University - Computer Science
+yoAdhv#5873 - North Carolina State University - Engineering
+Felpix#7321 - University of California, Santa Barbara - Computer Science, Public Policy
+yourbuddy#7880 - University of Massachusetts Amherst - Math, Economics
+foru#3115 - Lehigh University - Computer Science, Business Honors
+KirbyDude25#7135 - Rutgers University - Computer Science
+Suz#4831 - University of California, Berkeley - Economics
 SpaghettiDabaiji#1884 - School of Visual Arts - Illustration
+itsmeomg#7187 - Stanford University - Mathematics, Data Science, Economics, Management Science
+skullrider56#4564 - George Mason University - Business

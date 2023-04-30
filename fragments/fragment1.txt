@@ -1,67 +1,27 @@
-I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+I will give you a series of messages written by different discord users which are separated by a new line. For each message, the author has said which university they are going to and potential areas they are interested in doing. I want you to identify the university name and the potential areas they are interested in doing. If you cannot identify the major, use UNKNOWN. If you cannot identify the university, use UNKNOWN. I want you to use university names recognized by usnews. Respond in a format like this: "author - university name - area1, etc" where the interested areas is a comma separated list. I want you to make the interested areas be standardized and have their full names without any extra modifiers. Do not add any extra "and's" in the response, separate interested areas using a comma, separate majors and minors, ignore concentrations, do not use forward slashes, ignore honors college, ignore schools/colleges within the university.
 
+MidnightTheDel#6794 wrote "Committed to Northwestern University for journalism!! Go cats!"
+aaryunik#3110 wrote "Committed to Cornell University College of Engineering! Planning on majoring in Computer Science or Operations Research & Engineering!    Go Big Red!"
+Mr. Abraxos#3018 wrote "Committed to the University of Alabama for Computer science. Planning on minoring in finance or something similar. Roll Tidee :alphaa:"
+elixir#8734 wrote "Committed to Columbia University's Fu Foundation School of Engineering and Applied Sciences! Currently planning to study Computer Science but who knows maybe I'll end up studying something else. Go Lions!!! "
+edan#4188 wrote "Committed to Williams College '27   I plan to study humanities and visual arts. Friendly to Amherst College prefrosh, but GO EPHS!!  (we're better)"
 Gues✞#4813 wrote "Committed to Columbia University for Polisci and hopefully violin performance w/ Juilliard!  Go Lions!!!  "
-<br>
 jerry!#2618 wrote "committed to THE george washington university! planning on majoring in polisci (and maybe double up w/ econ). go george!"
-<br>
 nickisapisces#4090 wrote "committed to Duke University for poli sci and comp sci!! go blue devils  "
-<br>
 rebexa#6661 wrote "committed to Bowdoin College for sociology and govt+legal studies  go U Bears!! "
-<br>
 Sumneer#0001 wrote "committed to brown for business, entrepreneurship, and organizations! go bears!!! "
-<br>
 LiberalShillLuke91#3934 wrote "committed to West Virginia University for PoliSci w/ a concentration on elections and campaigns, go mountaineers!!"
-<br>
 Cyxh#6666 wrote "committed to harvard! hopefully i can study physics or smth there that would be cool too"
-<br>
 parabirb#5688 wrote "did you know that the university of texas at dallas has a massive furry community? also i'm committed there now for computer science"
-<br>
 Violet?#0067 wrote "Just committed to Barnard College of Columbia University  Currently undeclared but looking to study computer science and film. Go lady bears! "
-<br>
-Ashmit#7821 wrote "Committed to New York University at Abu Dhabi. Currently undeclared, but planning to study Econ. 
-Go Violets "
-<br>
+Ashmit#7821 wrote "Committed to New York University at Abu Dhabi. Currently undeclared, but planning to study Econ. Go Violets "
 iz#7072 wrote "Committed to UPENNNNNNN!!! PSYCH MAJOR AT CAS"
-<br>
 pineapple#2975 wrote "committed to Barnard College of Columbia University. major is undecided, but probably urban studies. go bears and lions! "
-<br>
 Ramen#2785 wrote "This is an epic and cool feature  committed to uchicago for CS/ECON "
-<br>
 tlothomas21#5640 wrote "Committed to the University of Chicago!! Majoring in Neuroscience. Go Maroons!!"
-<br>
 soymilqe#4642 wrote "committed to the george washington university! majoring in political science. raise high!"
-<br>
 iWontTry#1764 wrote "Committed to Vanderbilt University!!! Majoring in Mathematics (might double up w/ comp sci). Go 'Dores! "
-<br>
 zango#9819 wrote "Committed to Cornell University in the College of Arts & Sciences! Planning on majoring in Computer Science (and possibly minoring in Environment & Sustainability). Go Big Red! "
-<br>
 mol#9686 wrote "committed to northeastern university as a cell and molecular biology major!! go huskies "
-<br>
 JD_Baller07#9668 wrote "Committed to Georgia Tech to study Aerospace Engineering! Go YellowJackets! "
-<br>
 Icey#6430 wrote "Committed to Georgia Tech for CS w/ threads in Modeling & Simulation and (???)! Planning to minor in weather . Go YellowJackets!  "
-<br>
-Erik Garcia#1542 wrote "Took me a bit to actually get verified, but Im committed to Bowdoin College and considering majoring in Government and Legal Studies and a minor in either Chinese, Japanese, or Visual Arts! Unsure but definitely exciting to finally know where Im headed to college!"
-<br>
-benz#1111 wrote "Never posted here, but i committed to UC Socially Dead!!!! Lets gooo!!!"
-<br>
-yas#1608 wrote "committed to rutgers new brunswick to study meteorology, and considering minoring in creative writing!! im so excited about where this will take me. go scarlet knights ! :blobheart:"
-<br>
-Yonaseen#4184 wrote "after getting rejected, deferred, and denied my major from UIUC, GT, and UT (my state flagship crush  ), ive decided to finalize on my REA acceptance and commit to Stanford for CS! go trees!!  "
-<br>
-Jahameb#5976 wrote ":catstand: Committed to Stanford"
-<br>
-iDawg#0648 wrote "just recently confirmed my enrollment and committed to the university of maryland at college park :)
-planning on double majoring computer science & government and politics!! honestly so hyped for what the rest of this year brings me !!!
-ROLL TERPS BABY"
-<br>
-Shrimp#0719 wrote "committed to UMass Amherst for informatics, possibly minor or double major in music performance. 
-Go minuteman!"
-<br>
-majruism#5299 wrote "Kinda late, it took me a sec to get verified and stuff but Im commited to WashU (the one in at louis ) for Architecture and a minor in Landscape Architecture! 
-
-GO BEARS "
-<br>
-AChip#4111 wrote "Committed to ***Northeastern University*** as a CS + Math combined major (let the hate flood in :1984: )!!!! Go huskies :smug:"
-<br>
-derpytbh#1239 wrote "Just committed to Northeastern University to study behavioral neuroscience! Go huskies!!"
