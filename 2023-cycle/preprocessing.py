@@ -8,7 +8,7 @@ oldest = datetime(2022, 11, 1)
 
 messages = []
 
-with open("a2c_results.csv", encoding="iso-8859-1") as f:
+with open("../a2c_results.csv", encoding="iso-8859-1") as f:
     reader = csv.reader(f)
     for i in reader:
         try:
