@@ -1,0 +1,18 @@
+I will give you a series of messages written by different discord users which are separated by a new line. For each message, the author has said which university they are going to and potential areas they are interested in doing. I want you to identify the university name and the potential areas they are interested in doing. If you cannot identify the major, use UNKNOWN. If you cannot identify the university, use UNKNOWN. I want you to use university names recognized by usnews. Respond in a format like this: "author - university name - area1, etc" where the interested areas is a comma separated list. I want you to make the interested areas be standardized and have their full names without any extra modifiers. Do not add any extra "and's" in the response, separate interested areas using a comma, separate majors and minors, ignore concentrations, do not use forward slashes, ignore honors college, ignore schools/colleges within the university.
+
+chloeee#4813 wrote "committed to Case Western Reserve University for physics, pre med!! go spartans! "
+Gigaswag#6677 wrote "Committed to Vandy for Biomedical Engineering on a pre-med track! It's been a wild ride :) ANCHOR DOWN "
+CrabKingMike#7979 wrote "Committed to Princetonnnnnnnnnnn I kinda ate down with this one ngl, plan to major in CS AB and potentially minor in Geosciences! So glad to finally be done and thankful to everyone who supported me throughout! Go tigers"
+twolf#0560 wrote "Committed to Grinnell College where I plan to pursue an independent major in Logic and Computation (combining cs, linguistics, math, and philosophy into one degree). #GoPioneers "
+thats what she said#8312 wrote "Committed to Virginia Tech for Computer Science and a possible minor in Business! Go Hokies!!  "
+angie#4732 wrote "Committed to the University of Michigan's Ross School of Business for... well business!! Gonna be a wolverine for 8 years!! GO BLUE   "
+shiver#1211 wrote "committed to william and mary, majoring in government and minoring in theater!"
+nope_#8004 wrote "super excited to be committed to princeton to study computer science, dream come true!! go tigers!!   "
+TunaFish#5555 wrote "Committed to Northeastern University for Computer Science! Go Huskies!!! "
+yoAdhv#5873 wrote "committed to NC State for engineering, lesgooooo wolfpack! awoooooooooo"
+Felpix#7321 wrote "committed to ucsb for cs and public policy! gauchos stay winning!!"
+yourbuddy#7880 wrote "Committed to Amherst College for math and econ!!!!! Go Mammoths !!!"
+foru#3115 wrote "super stoked to be going to Lehigh University for the Computer Science and Business Honors program on a full ride! GO MOUNTAINHAWKS!  "
+KirbyDude25#7135 wrote "Committed to Rutgers-New Brunswick for Computer Science as part of the Honors College! Go Scarlet Knights!"
+Suz#4831 wrote "Committed to UC Berkeley for econ! Go bears!!!!"
+SpaghettiDabaiji#1884 wrote "Committed to the School of Visual Arts for Illustration! Go  Squids! "
