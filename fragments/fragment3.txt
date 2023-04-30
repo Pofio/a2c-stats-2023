@@ -1,0 +1,68 @@
+I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+
+scott_#5909 wrote "officially committed to emerson college for film!
+
+cant wait to join the emerson mafia and backdoor my way into hollywood. also cant wait to finally leave the boring ahh silicon valley and live in downtown boston. grateful to have no student debt. ill see yall at the oscars  :zamn:"
+<br>
+gooseo#5836 wrote "Committed to Bowdoin College. Likely majoring in Economics or Biochemistry. 
+Go Polar Bears! "
+<br>
+itzmelauryn#1221 wrote "Officially committed to Oregon State University. Going to be majoring in marketing and planning on minoring in new media communications. GO BEAVS "
+<br>
+Soba#4794 wrote "Committed to the University of Florida for CS and maybe a minor in engineering! GO GATORS!!!  (yes i'm aware this is a crocodile emoji)"
+<br>
+cadwi#5103 wrote "Officially committed to the University of Rochester to study environmental science and music!! Incredibly excited to live in essentially the depths of the Arctic for the next four years. GO YELLOWJACKETS!!!!!!!!    
+
+
+Edit: sorry I forgot to add the name of the actual college "
+<br>
+barometer#9333 wrote "Going to the University of Alabama (Harvard of the South) for engineering! ROLL TIDE :alphaa: :alphaa: :alphaa:"
+<br>
+Meech#4880 wrote "Committed to Northeastern University(  ) for CS+Math! GO HUSKIES!!!! :smugdoge:"
+<br>
+Cyanideeeeeee#4261 wrote "Committed to UC Davis for undeclared-life sciences with a possible minor in poly sci! Probably going on the premed track but Im not sure yet. Go Aggies! "
+<br>
+hashbrown#0116 wrote "committed to wellesley (undecided major)! so excited to spend the next 4 girlbossing "
+<br>
+Keybored#3705 wrote "Committed to UC San Diego for Computer Engineering in Muir College and with a Regents Scholarship! 
+GO TRITONS! "
+<br>
+sev#0001 wrote "Committed to UC Berkeley to study Electrical Engineering and Computer Sciences (EECS)! GO BEARS! "
+<br>
+jenerally_speaking#8487 wrote "Committed to Vanderbilt University in the College of Arts and Science! Planning to major in economics :) ANCHOR DOWNNNN  "
+<br>
+alicia#8888 wrote "committed to ucla for design media arts in the school of arts and architecture :)) bruin til the day i die "
+<br>
+samiha#0519 wrote "commited to the University of Michigan for biomedical engineering  GO BLUE  "
+<br>
+Yashbertosaurus#2784 wrote "Committed to Purdue for Computer engineering (Boiler Up) "
+<br>
+nadya | gatech ‘27#1352 wrote "Committed to KSU my freshman year but Georgia Tech 27 in Biochemistry ( thru guaranteed transfer admission)! its the cheapest option as instate student plus ga tech is the best. "
+<br>
+Trifolds#1947 wrote "Committed to UT Austin for Mechanical Engineering! Hook 'em Horns!! "
+<br>
+Rye | CS & Finance#9567 wrote "Committed to Boston University for Finance and CS!  "
+<br>
+droov#1038 wrote "Committed to Penn for Computer Science in the School of Engineering and Applied Science! Hoping to dual degree at Wharton too! Go Quakers "
+<br>
+Calypso#9517 wrote "Committed to Columbia College at Columbia University for Astrophysics and Public Policy! Roar Lion Roar! "
+<br>
+loopy#8232 wrote "Committed to Tufts University for Econ/CS! Go Jumbos!!!!! "
+<br>
+subaru#1450 wrote "committed to amherst college! unsure about my future plans but i'm leaning towards a double major in physics and CS. go mammoths! "
+<br>
+LuminescentLight#4093 wrote "Committed to University of Michigan for Mathematics :3 GO BLUE! "
+<br>
+FlamingBD#8800 wrote "Committed to Purdue(+ Honors) for Airline Management and Operations . Boiler Up! "
+<br>
+DC25#3546 wrote "Committed to UC Berkeley for Electrical Engineering and Computer Science. Go Bears! "
+<br>
+KeroppiCake#4144 wrote "Committed to harvard for physics and english! roll crim "
+<br>
+cheezyg#9221 wrote "Committed to UNC-Chapel Hill, intending to major in Physics + Computer Science with a minor in Applied Sciences and Engineering! Go  !"
+<br>
+oklahoma city#6027 wrote "Committed to UC Irvine for computer science! Go Anteaters!"
+<br>
+yoda from star trek#9080 wrote "Committed to The University of Connecticut (UConn) as a Business Undecided Major!   "
+<br>
+a d d y#2129 wrote "Committed to UC Berkeley for Mathematics and Sociology! GO BEARS!"

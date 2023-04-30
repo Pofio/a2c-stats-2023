@@ -1,0 +1,61 @@
+I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+
+omar.#0500 wrote "MATCHED WITH QB TO YALE! '27 "
+<br>
+Zass#9640 wrote "Match with Yale '27 through QB for Ethics, Politics, and Economics! Boola Boola!  "
+<br>
+Doc4science#9778 wrote "Committed to Grinnell College 27!! I intend to focus on physics and either economics or computer science!"
+<br>
+mads<3#5312 wrote "Committed to Boston College 27  I plan on majoring in computer science with a concentration in bioinformatics  ROLL EAGLES BABYYYY"
+<br>
+Empyrean Sunfire⁷#0767 wrote "I committed to Dartmouth College ('27)! May major in CS with a double major or minor in philosophy and possibly go into pre-med?? Go big green! "
+<br>
+ryan#8296 wrote "Committed to Northeastern University '27 with a major of Computer Science! Go Huskies! "
+<br>
+Andу#1344 wrote "Committed to Penn 27 for Computer Science. Go Quakers!"
+<br>
+j32923431#6124 wrote "Committed to Washington University in St. Louis with a major in political science! Go Bears!   "
+<br>
+kiel#0641 wrote "Committed to Columbia '27 SEAS! Planning to study Computer Science  Go Lions!!! "
+<br>
+syllables-of-sound#1681 wrote "i'm officially committed to Oberlin College & Conservatory '27 (xctf recruit)! im planning on majoring in comparative eastern european studies with a minor in creative writing and hopefully double major in viola performance!! go yeo! "
+<br>
+apollo#6005 wrote "committed to yale '27! planning on majoring cognitive science (and maybe, ethnicity, race, and migration)! boola boola!   "
+<br>
+nilo#9057 wrote "committed to emory university '27! im planning on majoring in quantitative sciences on the linguistics track. go eagles!! "
+<br>
+shinobobo#5641 wrote "Committed to New York University 27! Will be majoring in computer science + mathematics with a fiance minor! Go bobcats!"
+<br>
+ilovekittens#3137 wrote "this is sorta late but i matched with stanford university '27 through QB!  I intend on majoring in Biology :) FEAR THE TREE!!"
+<br>
+Woody Supremo#0692 wrote "Committed to Dartmouth College 27 with a double major Chem/Government! Will possibly go either pre-med or pre-law. Go Big Green! "
+<br>
+swekmeht#5074 wrote "Committed to Cornell University '27 - majoring in environmental engineering   Go Big Red!"
+<br>
+Galactic#4055 wrote "Committed to Princeton University '27! I'll be majoring in Public Policy at the School of Public and International Affairs with a minor (certificate) in history!! Go Tigers!!!   "
+<br>
+Sal#8008 wrote "Committed to Brandeis University '27!! I plan on majoring in Computer Science with a possible minor in Film, Television and Interactive Media. Go Judges!!! "
+<br>
+Ahmaad#0659 wrote "Committed to Dartmouth College 27!  Majoring in Quantitative Social Science. Coming from Palestine so I'd be preparing to freeze   GO BIG GREEN!! "
+<br>
+boomboom#6520 wrote "Committed to Johns Hopkins University '27!! I intend on majoring in Computer Science with (most likely) a minor in philosophy or economics! Go Blue Jays! "
+<br>
+Shifting_baselines_#4769 wrote "Committed to Dartmouth College '27! Most likely going to change but so far plan to major in Environmental Studies with Public Policy & Neuroscience Minor... GO BIG GREEN!!!   "
+<br>
+Vinny#9301 wrote "Committed to Penn SEAS '27! Planning on majoring in Computer Science with a minor in Mathematics. Can't wait to be a Quaker and call Philly home for the next four years!!!  "
+<br>
+bigmacluvr#2795 wrote "Committed to Dartmouth College '27!!! Planning on majoring in Economics and Computer Science! GO BIG GREENN   "
+<br>
+Chip#3890 wrote "Committed to Northwestern University! Planning on pursuing dual degrees in oboe performance and computer engineering   Go Wildcats!!!  "
+<br>
+saucy#7123 wrote "Committed to Duke University 27 for Statistics + Global Health! "
+<br>
+MidnightTheDel#6794 wrote "Committed to Northwestern University for journalism!! Go cats!"
+<br>
+aaryunik#3110 wrote "Committed to Cornell University College of Engineering! Planning on majoring in Computer Science or Operations Research & Engineering!    Go Big Red!"
+<br>
+Mr. Abraxos#3018 wrote "Committed to the University of Alabama for Computer science. Planning on minoring in finance or something similar. Roll Tidee :alphaa:"
+<br>
+elixir#8734 wrote "Committed to Columbia University's Fu Foundation School of Engineering and Applied Sciences! Currently planning to study Computer Science but who knows maybe I'll end up studying something else. Go Lions!!! "
+<br>
+edan#4188 wrote "Committed to Williams College '27   I plan to study humanities and visual arts. Friendly to Amherst College prefrosh, but GO EPHS!!  (we're better)"

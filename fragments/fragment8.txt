@@ -1,0 +1,53 @@
+I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+
+MakiN#6125 wrote "Committed to the University of Rochester for Computer Science and possibly minor in Econ! Go Yellowjackets~~~ "
+<br>
+Naiad#0001 wrote "Committed to Northwestern University, probably for econ but I'm really not sure!  Coming into the application process I knew little and A2C provided a lot of guidance which I'm very thankful for and I'm so grateful to be in the spot I'm in now.  Go Wildcats!  "
+<br>
+Kingddd7777#4429 wrote "Committed to USC! Still thinking about what I want to do, but likely Finance/CS! Thank you A2C for all the support in this admissions process : ) I really appreciate my time with y'all here! GO TROJANS! "
+<br>
+pi3rce#6958 wrote "committed to Saint Anselm College to compete at the DII level for track and field! HAWKS SOAR HIGHER "
+<br>
+himothy#9046 wrote "Committed to Harvard College for CS. Roll Crimson! :alphah:"
+<br>
+forky#1292 wrote "committed to USC for environmental engineering! FIGHT ON! "
+<br>
+yera#0017 wrote "committed to the university of notre dame as a hesburgh-yusko scholar and a glynn family honors scholar! planning to major in political science and minor in PPE!! go irish   "
+<br>
+LynxeonLiv#1806 wrote "Committed to Johns Hopkins for Biology and Film on a Pre-Med track! GO BLUE JAYS!!!        "
+<br>
+AloeAlan#6087 wrote "Committed to Northwestern University for Econ and/or IE and/or CS! Go Wildcats! "
+<br>
+mich???#7698 wrote "Committed to Cornell University for Electrical and Computer Engineering! GO BIG REDDD!    "
+<br>
+chloeee#4813 wrote "committed to Case Western Reserve University for physics, pre med!! go spartans! "
+<br>
+Gigaswag#6677 wrote "Committed to Vandy for Biomedical Engineering on a pre-med track! It's been a wild ride :) ANCHOR DOWN "
+<br>
+CrabKingMike#7979 wrote "Committed to Princetonnnnnnnnnnn I kinda ate down with this one ngl, plan to major in CS AB and potentially minor in Geosciences! So glad to finally be done and thankful to everyone who supported me throughout! Go tigers"
+<br>
+twolf#0560 wrote "Committed to Grinnell College where I plan to pursue an independent major in Logic and Computation (combining cs, linguistics, math, and philosophy into one degree). #GoPioneers "
+<br>
+thats what she said#8312 wrote "Committed to Virginia Tech for Computer Science and a possible minor in Business! Go Hokies!!  "
+<br>
+angie#4732 wrote "Committed to the University of Michigan's Ross School of Business for... well business!! Gonna be a wolverine for 8 years!! GO BLUE   "
+<br>
+shiver#1211 wrote "committed to william and mary, majoring in government and minoring in theater!"
+<br>
+nope_#8004 wrote "super excited to be committed to princeton to study computer science, dream come true!! go tigers!!   "
+<br>
+TunaFish#5555 wrote "Committed to Northeastern University for Computer Science! Go Huskies!!! "
+<br>
+yoAdhv#5873 wrote "committed to NC State for engineering, lesgooooo wolfpack! awoooooooooo"
+<br>
+Felpix#7321 wrote "committed to ucsb for cs and public policy! gauchos stay winning!!"
+<br>
+yourbuddy#7880 wrote "Committed to Amherst College for math and econ!!!!! Go Mammoths !!!"
+<br>
+foru#3115 wrote "super stoked to be going to Lehigh University for the Computer Science and Business Honors program on a full ride! GO MOUNTAINHAWKS!  "
+<br>
+KirbyDude25#7135 wrote "Committed to Rutgers-New Brunswick for Computer Science as part of the Honors College! Go Scarlet Knights!"
+<br>
+Suz#4831 wrote "Committed to UC Berkeley for econ! Go bears!!!!"
+<br>
+SpaghettiDabaiji#1884 wrote "Committed to the School of Visual Arts for Illustration! Go  Squids! "

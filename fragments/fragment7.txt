@@ -1,0 +1,62 @@
+I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+
+shanye#6396 wrote "Committed to Dartmouth for CS + Econ + Computer Engineering    GO BIG GREEN "
+<br>
+arrow#7963 wrote "Committed to Northwestern for Computer Engineering! Go Wildcats! :demonic_cat:"
+<br>
+beehehe#5851 wrote "Committed to Skidmore for English with a minor in Film and Media Studies! Go Thoroughbreds!!! "
+<br>
+chrisbru#7697 wrote "Committed to UCLA for Biz and Poli Sci, USC sucks. GO BRUINS!"
+<br>
+jaju#2911 wrote "Committed to UCSD for Math - CS! Go Tritons"
+<br>
+JaYeSh#2397 wrote "Committed to Azim Premji University for Physics..."
+<br>
+rovarue#4462 wrote "committed to James Madison University for Bio + Theatre "
+<br>
+william#9999 wrote "Committed to Georgia Tech to study computer science!! Go Yellowjackets!   "
+<br>
+The Red Chicken#3025 wrote "Committed to the University of Toronto for Astronomy and Physics! This whole process was a wild ride and im very happy that I am able to go to my top choice!   "
+<br>
+Mythaar#5830 wrote "Committed to Cornell for Computer Science! Extremely excited!"
+<br>
+JustAnOkapi#8658 wrote "UTD for CogSci"
+<br>
+jaelyn#1267 wrote "Committed to College of Engineering @ Cornell University"
+<br>
+DanielSan#5855 wrote "committed to Colby College for computer science and music! go mules!"
+<br>
+Harry Potter#6598 wrote "Committed to Virginia Tech University for Computer Science! Let's go Hokies"
+<br>
+abhi#9999 wrote "Committed to the University of Southern California for Public Policy and Finance! Fuck UCLA and FIGHT ON!!! "
+<br>
+Tarquin#9892 wrote "Committed to the University of Wisconsin-Madison for Computer Engineering. #FutureBadger"
+<br>
+Hargun#6466 wrote "Purdue '27 for Computer Science and Mathematics!
+BOILER UPPPP "
+<br>
+katep#5603 wrote "committed to the university of pittsburgh honors college for a psychology and neuroscience double major (hopefully!) on a full ride  hail to pitt!"
+<br>
+sarawqmt#2442 wrote "commited to University of Wisconsin-Madison for compter science! ON WISCONSIN!!:blobrainbow:"
+<br>
+LukaLuka#7606 wrote "committed to University of Pennsylvania for chemistry!  "
+<br>
+alexyz#3459 wrote "committed to University of Wisconsin-Madison for comp sci!"
+<br>
+A man#0696 wrote "Committed to the University of Pittsburgh for Premed! H2P!"
+<br>
+hmm#0407 wrote "committed to University of Michigan college of engineering!!!  "
+<br>
+xNoir#6003 wrote "Committed to Purdue for Comp sci!   "
+<br>
+ahahana#4722 wrote "committed to Iowa State University as a CS major on a full tuition scholarship!! Go Cyclones!!"
+<br>
+silkberries#2253 wrote "Committed to Carnegie Mellon University (CMU) for Computer Science thank u all for coming along wit this crazy college apps ride with me could not have done it without u guys help. GO TARTANS"
+<br>
+sleepysleeper#7913 wrote "committed to the university of rochester for biochemistry on a pre-med track!! go yellowjackets "
+<br>
+Jeff#6415 wrote "Committed to Case Western for Biomedical Engineering (assuming nothing happens in waitlists). Lebron come back to Cleveland and go Spartans  :peepocelebrate:  :peepocelebrate:  :peepocelebrate:"
+<br>
+emreee#4252 wrote "Committed to University of Pennsylvania for Economics at the Wharton School. Mind blowing how just a couple months ago I was starting at the class of '26s commitments and I was mind blown looking at their amazing decisions. As a first generation student, I entered this cycle with no idea of how the admissions process worked but with the help of many amazing individuals in this server I'm going to the Ivy League. Genuinely thank you, thank you so much to everyone here, you guys have honestly changed my life :D"
+<br>
+DrPro#1737 wrote "Committed to UCR for Material Science and Engineering!"

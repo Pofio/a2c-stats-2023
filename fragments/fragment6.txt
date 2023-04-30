@@ -1,0 +1,65 @@
+I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+
+sophia 🪩#7321 wrote "committed to william & mary for biology and public policy! go tribe!!  "
+<br>
+connor ♡#3943 wrote "committed to brandeis for linguistics and history! roll deis!! "
+<br>
+rocketmanhowie#1108 wrote "committed to wisconsin-madison for cs! on wisconsin :stonks:"
+<br>
+saez#6757 wrote "committed to florida state's honors and research scholars programs with a major in commercial music and entrepreneurship (goal is to get into the music industry). GO NOLES!!!  "
+<br>
+[redacted]#4709 wrote "Committed to George Washington University in D.C. for a double major in Chemistry and Political Science, with a minor in either Mathematics or CS. Extremely thankful to A2C for having gotten me this far.  RAISE HIGH THE BUFF AND BLUE!"
+<br>
+Cardinal North#5890 wrote "Committed to Cal Poly SLO for City and Regional Planning! YAYA!     Texas ->Cali"
+<br>
+Ky#9969 wrote "committed to clark university for a double major in computer science & psychology!!! "
+<br>
+jkhanna6367#4959 wrote "Committed to USC Marshall to study Business Administration with a concentration in Finance. FIGHT ON!!   "
+<br>
+Pahari#6818 wrote "committed to THE pennsylvania state university for mathematics (and possibly astronomy/astrophysics) :orz:. WE ARE!"
+<br>
+Anonymoose#6914 wrote "committed to boston college as a biology major (possible minor: finance)! LET'S GO EAGLES  "
+<br>
+Anomaly#7495 wrote "Committed to Duke for Computer Science!  "
+<br>
+Khyathi#6017 wrote "Committed to Caltech for a Mathematics and Philosophy double major, can't wait to weep caffeinated tears in a few months :peeposadge:"
+<br>
+seph#4916 wrote "committed to columbia, probably for cs or applied math, go lions!!   "
+<br>
+Lyrics#5445 wrote "Committed to the University of Virginia for Computer Science! Go Hoos!    "
+<br>
+the Captain#6150 wrote "committed to FSU for astrophysics on vires scholarship! hoping to also major in mathematics or another subject, GO NOLES!!!!!!!! :alphan: :alphao: :alphal: :alphae: :alphas: 2 7"
+<br>
+FelizVida#9444 wrote "committed to Wake Forest for business (probably BEM) and Psychology major/minor (we'll see)!!! The Demon Deacon fits my devilish self so let's go to rural North Carolina :troll:"
+<br>
+Rubi#0205 wrote "Commited to Stanford for Human Biology with a minor in Spanish!!!! GO TREES !!!!"
+<br>
+ilrelta#5583 wrote "commited to ut austinussy for electrical and computer engineering 
+hook em longhorns and bevo is  "
+<br>
+raysin#4657 wrote "committed to santa clara with an intended major in MIS, and considering a minor in business analytics or psychology! GO BRONCOS!"
+<br>
+an0nkar#6725 wrote "Committed to UChicago on fullride for computer science (machine learning specialization) and business economics! GO MAROONS :elmorise:!!!"
+<br>
+DuckinaHoodie#6118 wrote "Committed to UC San Diego for Theatre!
+ (and possibly a double major!)
+
+Go Tritons!  "
+<br>
+Etherite#1387 wrote "Committed to Yale to study CS and Math! Boola boola "
+<br>
+FirestarXYZ#0035 wrote "Officially committed to Yale for computer science :)) Boola boola "
+<br>
+ʎʇsıɹɥɔ#7102 wrote "Committed to Case Western Reserve University for Neuroscience with a minor in CS and spanish (considering a minor in chemistry as well)!! Go Spartans "
+<br>
+boba#5232 wrote "Officially committed to Stanford University for Political Science and Economics on the Pre-Law Track with a minor in South Asian Studies:) FEAR THE TREE! "
+<br>
+squishyalmighty#0520 wrote "Committed to UC San Diego for cognitive science with a possible minor in music! GO TRITONS!!!   "
+<br>
+krispygiraffe#7219 wrote "Committed to William and Mary for either Biology or Math on a Pre-Med Track! Go Tribe!"
+<br>
+jitslayer#4959 wrote "Committed to Pitt for Physics and Quantum Computing!! HAIL TO PITT!!"
+<br>
+farway#3304 wrote "Committed to Appalachian State University, majoring in Political Science with a minor in either Community and Regional Planning or Geography! ROLL 'NEERS "
+<br>
+unofficialmilkman#8736 wrote "Committed to SUNY New Paltz for English >:))) Go Hawks!! "

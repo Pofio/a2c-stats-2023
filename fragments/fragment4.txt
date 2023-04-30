@@ -1,0 +1,64 @@
+I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+
+fake tux#6916 wrote "Committed to Princeton University BSE, intending to major in Computer Science hopefully with a certificate in Robotics and Intelligent Systems! TIGER PRIDE 27!"
+<br>
+brick#8362 wrote "Committed to University of Pennsylvania for Physics with a possible minor in Theatre Arts! 
+GO QUAKERS!"
+<br>
+birb#5297 wrote "Committed to UC Berkeley for Applied Mathematics! Go bears "
+<br>
+xd husky#5451 wrote "Committed to Case Western Reserve University for Data Science with a minor in Management! Go Spartans "
+<br>
+Azis#6842 wrote "Committed to Swarthmore College! Most likely majoring in CS and Psychology. Go Phoenix! "
+<br>
+ynb#3289 wrote "Committed to UMD LTSC, intending to major in Computer Science! Go Terps! "
+<br>
+corayue#8497 wrote "Committed to the Sophie Davis School of Medicine/The CUNY School of Medicine for Biomedical Science! Class of 2030 "
+<br>
+mattoo#6594 wrote "Committed to UT Austin + Honors for Mechanical Engineering! Hook 'em. "
+<br>
+MJM13#5900 wrote "Committed to Georgetown University's Walsh School of Foreign Service, studying International Politics! HOYA SAXA! :alphag:"
+<br>
+william_cwang#3963 wrote "Committed to the University of Washington, majoring in Informatics! Go Huskies!!! "
+<br>
+cherrypicked#2127 wrote "Committed to the University of Florida for computer science. Go Gators! "
+<br>
+crustedchickenpasta#2181 wrote "Know I said I'd leave this server for good after ivy day, but committed to Johns Hopkins University for Biomedical Engineering! Go Blue Jays!!  "
+<br>
+FireOfPies!#4330 wrote "Committed to Rowan University for Sports Communication and Media, with a hopeful double major in Communication Studies. Go Profs!!!  "
+<br>
+✿ Adrian ✿#7127 wrote "Committed to University of california, San diego for Interdisciplinary computing and the arts and I plan to double major in cognitive science too  GOOOO TRITONS  "
+<br>
+Kosargsosod#2092 wrote "Committed to Purdue University for Integrated Business and Engineering with admission to the John Martinson Honours College at West Lafayette, Indiana. I'd Like to thank A2C for all the support. Boiler Up! Hammer down!   LESGOOO BABY ITS FINALLY OVER WOOOOOOO"
+<br>
+meower#3840 wrote "Committed to Georgia Tech for CS! (Kind of an anticlimactic end and RD massacre to what was a great Early/UC round). But anyways. India -> Atlanta 
+Go jackets ! Also, thank u A2C-ers. Idek what I'd do without your help :)"
+<br>
+JadenStar10#3620 wrote "Committed to the New Jersey Institute of Technology Albert Dorman Honors College for Computer Science! Got a full ride + 2.5k per year to go. 
+GO HIGHLANDERS!  "
+<br>
+ion05#2227 wrote "Committed to Purdue University for Computer Science. WILL GIVE MY FULL TO PURDUE CUZ ITS THE ONLY ONE WHO RECOGNIZED MY TALENTS. GO BOILERS!!! WOO"
+<br>
+Viv#2459 wrote "Commited to Boston University for Music with a potential minor in French! Roll terriers! ||but honestly BOOOO no physical acceptance package >:(||"
+<br>
+Kris#6627 wrote "Committed to American University in D.C. for Political Science! Received Dean's Scholarship + invitation to the AU Cornerstone Program! Go Eagles!! "
+<br>
+nasir#0343 wrote "Committed to the University of Miami for Computer Science, and a potential minor in Interactive Media! GO CANES "
+<br>
+xuaaelin#6089 wrote "Commited to UC Berkeley for Bioengineering + Business. Go bears! :p"
+<br>
+jayyyy#6626 wrote "Committed to University of Maryland LTSC, with an intended major of Computer Science !! GO TERPS    "
+<br>
+Abhiram#1893 wrote "Committed to Caltech for Physics+Mathematics!! Lessgooooooo"
+<br>
+Dari#4600 wrote "Committed to Singidunum University in Belgrade Serbia. English major. I was missing one point from the max score."
+<br>
+Tazzo#1112 wrote "Committed to Northwestern to study economics at Weinberg! Wooooo"
+<br>
+lizy liz#1184 wrote "Committed to Washington University in St. Louis to study Chemistry on a Pre-Med track! Got a full ride Go bears!"
+<br>
+charls#0001 wrote "Committed to the University of Chicago to study Economics in a 4+1 program! Go Maroons!!!"
+<br>
+badfacepainting#6705 wrote "committed to brown university with intended concentrations in music and literary arts! GO BEARS!!!"
+<br>
+oskalos#6990 wrote "Committed to Brown University and double concentrating in Computer Science and Applied Math-Economics!  GOOOO BEARS!!!!!"

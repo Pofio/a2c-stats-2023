@@ -1,0 +1,61 @@
+I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+
+Teafly#9190 wrote "Committed to University of Maryland College Park to study Computer Science with a minor in business analytics. GO TERPS!! "
+<br>
+pinkgrapefruit#4123 wrote "Committed to Rice University for undergraduate Business with a possible minor in my basement. GO OWLS "
+<br>
+Chief Jr.#8274 wrote "Committed to Columbia University for Astrophysics! **#1 school forever.** Go lions!!! "
+<br>
+eliana#8979 wrote "committed to upenn to study computer science!! go quakers!"
+<br>
+Lord_Aditya#1136 wrote "Committed to ASU to study computer science!! Let's go Sundevils!"
+<br>
+阿樂#9880 wrote "Committed to UNC Chapel Hill to study Mathematics. Im going to try to find a way to double major with Philosophy and minor in Music. Tar Heels ftw!"
+<br>
+viv#0556 wrote "Committed to St. Lawrence University for geology and anthropology!! Go saints!! "
+<br>
+whack#5659 wrote "committed to umich for biology and a possible business/econ minor! GO BLUE "
+<br>
+SoupCat#1763 wrote "Committed to UNC Chapel Hill for business! Go Tar Heels!! "
+<br>
+WizardLizard#8153 wrote "Commited to UT Dallas for biology! Its finally over, go comets!"
+<br>
+MilesArcher#3915 wrote "Committed to UIUC for Computer Science at Grainger!   I-L-L-I-N-I :fheart:"
+<br>
+Shiven#7069 wrote "Commited to UC Berkeley for Environmental Economics & Policy! Go Bears "
+<br>
+Gandalf#3446 wrote "Committed to Wabash College for computer science with a minor in Math!Go Little Giants!"
+<br>
+Stelleron#7173 wrote "Committed to UMass Amherst for Computer Science. Go Minutemen!"
+<br>
+AC-130#0001 wrote "Committed to Rice University for Mechanical Engineering. Gonna be an Owl! :realism:"
+<br>
+chimera#0123 wrote "Committed to Cornell University in the College of Arts & Sciences, as a CS major. Go Big Red!!  "
+<br>
+s1ns#0007 wrote "Committed to the University of Wisconsin-Madison for CS~~ they gave me money~~, ON WISCONSIN!! "
+<br>
+aquaright1#2345 wrote "Committed to UC Berkeley for Pure Math and Statistics! Go Bears  !!"
+<br>
+Khang#8188 wrote "Committed to UMass for Computer Science! Let's Gooooooo!"
+<br>
+Crawler#2635 wrote "Committed to Rochester Institute of Technology for CS"
+<br>
+Rynox#2989 wrote "Committed to Carnegie Mellon University for chemical engineering and potentially a minor in CS! Let's go tartans! "
+<br>
+Catsith#7644 wrote "Committed to University of St. Andrews for Sustainable Development and Geography! I'm going abroad WOOO! :D"
+<br>
+Strontium#8979 wrote "Committed to Georgia Tech for Computer Science! Go Jackets   !!!"
+<br>
+asdfqwerty#1622 wrote "Committed to UIUC for Computer Engineering! Let's go ILLINI!!!"
+<br>
+yeasamin#0289 wrote "Committed to UC Berkeley for Anthropology!!! Go Bears "
+<br>
+ayakaa#8969 wrote "Committed to Amherst College for Mathematics and Statistics! Go Mammoths!!!  "
+<br>
+Daryl#3991 wrote "Committed to Amherst college for Neuroscience and computer science!! Go Mammoths "
+<br>
+emilyy#0302 wrote "committed to cornell university for hotel administration!! go big red "
+<br>
+littleboy#3822 wrote "Committed to Cornell University School of Arts and Sciences for chemical biology! Lets go big red! "
+<br>
+ßląnk#4554 wrote "Committed to JHU Peabody Conservatory for French Horn Music Performance and double major at JHU Homewood (undecided)!!! Lets go Blue Jays!"

@@ -1,0 +1,68 @@
+I will give you a series of messages that are separated by a <br> tag. For each message, I will tell you the discord user who wrote the message and I want you to identify the university the person is going to and the major they want to do. If you cannot identify the major, use UNKNOWN. For each message, I want you to respond in the format of "author - university name - major"
+
+Mew#1016 wrote "Committed to Brandeis for Computer science.  Go judges!! "
+<br>
+buggy#8710 wrote "Committed to Georgia Tech for Business Administration! Planning to do a minor in computer science. "
+<br>
+indigojuly#6007 wrote "super late to the party but I've officially committed to UPenn! Going to study business which means I'll major in econ but I'm not sure what I'm going to concentrate in, guess I'll figure it out there  !"
+<br>
+bray#3333 wrote "Committed to UT Austin for biology! Hook em horns "
+<br>
+iqloos#3757 wrote "committed to fordham rose hill for finance!  go rams!! "
+<br>
+ja$on#2626 wrote "committed to Western Michigan University for Professional flight (aviation). Go broncos!!"
+<br>
+TDog92#7921 wrote "Committed to Colgate University for biochemistry!"
+<br>
+simpaditya#6927 wrote "Committed to Michigan State University 
+I want to take this moment to remember all the victims of the recent incident that took place on campus and pray for those whore in the hospital right now :/ Go Green! "
+<br>
+Falaxsa#9925 wrote "Committed to Georgia Tech for Computer Science! Go Yellow Jackets! "
+<br>
+elizabeth#0274 wrote "committed to yale and planning on majoring in theatre and polisci !!! "
+<br>
+Sie#9735 wrote "Committed to my top choice, **Wellesley College!!** Double Majoring in Psychology and Sociology. GO BLUE"
+<br>
+carly#6241 wrote "Lemme get another e brb
+Ok well use the email e all better
+Also yes I do have a spare :alphal: in another server for Wellesley ur welcome"
+<br>
+Soph.Isticated#8679 wrote "Committed to University of Chicago as a prospective philosophy major! Go Maroons! "
+<br>
+ko#9442 wrote "Committed to Vanderbilt University as a Biology major on the pre-med track! ANCHOR DOWN  :RDJScream:"
+<br>
+Grin#1933 wrote "Committed to New York University Shanghai double majoring in International Relations and Business & Marketing. Go Qilins!!!:epicdoge:"
+<br>
+houseofballoons#0003 wrote "committed to columbia college chicago "
+<br>
+samberrypie#3402 wrote "committed to the university of alabama as a bio major on the pre-med track with a potential theatre minor! ROLL TIDE   :alphaa:"
+<br>
+Ninjasolver#6980 wrote "Committed to Cornell University. Going to major in computer science with astronomy. GO BIG RED!!!"
+<br>
+ApexLight#0420 wrote "Committed to Michigan State University! Going in undecided because I have zero idea what tf I want to do with my life  Go Green! "
+<br>
+miliana#2626 wrote "committed to wellesley college!! going for mathematics  super nervous cause its across the country but im EXCITED "
+<br>
+rb#8613 wrote "Committed to UC Berkeley for economics with a minor in data science! I'm an international student travelling 12 hours to california - GO BEARS!  "
+<br>
+forever10#6924 wrote "Committed to UChicago for Computer Science! Possible minor in Econ and Environmental Science! Go Maroons! "
+<br>
+tayyy#2222 wrote "Committed to Purdue (and honors college) for genetics! Hoping to minor in psychology. Boiler up  !!!"
+<br>
+Dr. Pill#1130 wrote "Committed to Rutgers New Brunswick majoring in Biochemistry! GO SCARLET KNIGHTS "
+<br>
+pottedgruyere#6484 wrote "Committed to Florida State University (Honors Program) for economics!! GO NOLES!!!  "
+<br>
+roriii#0314 wrote "Committed to Tufts University for Biochemistry on a premed track & French! GO JUMBOS!!! "
+<br>
+Tyrannosaurus Rex#2938 wrote "Officially Committed to Case Western Reserve University for Polymer Science and Engineering as an Air Force ROTC Cadet and a minor in Business Management! GO SPARTANS!! "
+<br>
+Yoco#2008 wrote "Officially Committed to MIT!!!
+Most likely going to study Computer Science with a focus on AI or CS+EE.
+
+I'm incredibly grateful for the amazing opportunity to go to my dream school with a full ride. TIM the beaver is my one true love  "
+<br>
+ChipsOn17#1573 wrote "Officially committed to university of pittsburgh for their cs program. Fortunately recieved an insane amount of financial aid and will need to pay less than 10k per year in tuition as an out of state student.
+ Extremely grateful to have recieved this admit and hope to enjoy my next four years there."
+<br>
+fatpunani#6440 wrote "Officially committed to Colgate University for Applied Mathematics! I plan to double minor in Economics and Computer Science. I moved from the East Coast to Cali 9 years ago; I'm so excited to return to where I truly felt I belonged. GO RAIDERS!!!   "
