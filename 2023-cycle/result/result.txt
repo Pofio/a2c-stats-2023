@@ -85,7 +85,7 @@ Dr. Pill#1130 - Rutgers University, New Brunswick - Biochemistry
 pottedgruyere#6484 - Florida State University - Economics
 roriii#0314 - Tufts University - Biochemistry, French
 Tyrannosaurus Rex#2938 - Case Western Reserve University - Polymer Science and Engineering, Business Management
-Yoco#2008 - Massachusetts Institute of Technology (MIT) - Computer Science, Artificial Intelligence, Electrical Engineering
+Yoco#2008 - Massachusetts Institute of Technology - Computer Science, Artificial Intelligence, Electrical Engineering
 ChipsOn17#1573 - University of Pittsburgh - Computer Science
 fatpunani#6440 - Colgate University - Applied Mathematics, Economics, Computer Science
 scott_#5909 - Emerson College - Film
