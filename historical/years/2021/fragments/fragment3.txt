@@ -1,0 +1,16 @@
+I will give you a series of messages written by different discord users which are separated by a new line. For each message, the author has said which university they are going to. I want you to identify the university name. If you cannot identify the university, use UNKNOWN. I want you to use university names recognized by usnews. Respond in a format like this: "author - university name" where the interested areas is a comma separated list. Ignore honors college, ignore schools/colleges within the university. Ignore potential majors they are interested in.
+
+curious george#3325 wrote "ahh ucla 'twenty-something for some combination of computer science, linguistics, global studies, and math!!! go bruins   "
+ʞɹ#5860 wrote "i haven't been active on this server, but i just got verified lol. happy to announce i'll be going to ucla for the next 4 years to study biology. GO BRUINS WOOHOO!!!"
+Abhay28#8893 wrote "Im really late as I committed so so long ago but Ill be extremely excited to attend Virginia Tech(Honors College) for computer engineering, class of 2025. Go Hokies!!!! It was so nice to meet you all on this server, and best of luck to everyone! Youll all do amazing, keep up the hard work!"
+antgalaxy#4595 wrote "Committed to Northwestern's Class of 2024!  Thank you to everybody on A2C for being really kind, compassionate, and welcoming.  I can't express with words how much I really appreciate it, but it means so much, and I can't wait to root for all of you in the Class of 2026 or future transfer students because I know any college would be lucky to have you join them."
+acorn9000⍨#6969 wrote "Committed to Berkeley for class of 2025. Wanna study CS and possibly math/stats. Go bears "
+Deleted User#0000 wrote "rice 2025 for bizness. yay! "
+cinnitoasts#4151 wrote "haven't been on here in a while so kinda late, but committed to uc berkeley for eecs! looking forward to the next four years :)"
+houseparty101#8015 wrote "about time, but i've committed to northeastern university for cs & math! i'll be joining the honors program and specializing in ML/AI! go huskies! :peepocelebrate:"
+Saxocrat#4300 wrote "UCSD Computer Engineering lol never posted on here  but im gonna love sunny sandy eggo :))"
+Cgducky#7678 wrote "Committed to Columbia for Computer Science!!  :dogekek:"
+Deleted User#0000 wrote "It's been a while! I'm committed to UC San Diego for Electrical Engineering! Go Tritons!"
+Tree#4301 wrote "Did this a very long time ago but committing to UWM (milwaukee) and actually just finished signing up for classes with my counselor. Digital Arts and Culture major!  :vibecat: :woo: (hmu if you also going to uwm)"
+Apatheon#4771 wrote "ASU Barrett '25 for Medical Studies B.S. (Pre-Med Track) Fork 'em :ohgod:"
+saltychild#3713 wrote "never saw this channel until now lol but excited to be going to UCI for Criminology and (hopefully) Political Science! Zot Zot Zot!"
