@@ -31,6 +31,9 @@ total = sum(colleges.values())
 print(f"People in T20(25): {t25_count}, % of commitments: {t25_count / total * 100 : .2f}%")
 print(f"People in T50: {t50_count}, % of commitments: {t50_count / total * 100 : .2f}%")
 
+for i in c:
+    print(i)
+
 # Matplotlib
 vals = [colleges[i] for i in t25]
 
