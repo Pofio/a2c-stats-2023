@@ -291,3 +291,6 @@ dr pepper#2870 - University of Florida - Psychology
 Challenger3569#8482 - Tulane University - Undecided
 FightingJ#3025 - Stanford University - Computer Science, History
 hoeskindaupset#0042 - Dartmouth College - Economics
+Bubble Nugget#0002 - Cornell University - Music, Computer Science
+renaa#0885 - Hamilton College - Data Science, Astronomy
+tcswag-zz#9811 - Western University - Economics
