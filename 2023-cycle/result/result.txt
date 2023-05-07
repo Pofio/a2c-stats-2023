@@ -294,3 +294,7 @@ hoeskindaupset#0042 - Dartmouth College - Economics
 Bubble Nugget#0002 - Cornell University - Music, Computer Science
 renaa#0885 - Hamilton College - Data Science, Astronomy
 tcswag-zz#9811 - Western University - Economics
+paneersamosa#6562 - University of California, Los Angles - Media Arts, Cognitive Science
+shiver#1211 - Middlebury College - Political Science, Theater
+pancakes#1412 - Carnegie Mellon University - Electrical Engineering, Computer Engineering
+gravitea#0243 - University of Vermont - Undecided
