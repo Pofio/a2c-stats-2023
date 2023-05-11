@@ -5,7 +5,7 @@ with open("result/result.txt", encoding="iso-8859-1") as f:
     data = [[j.strip() for j in i.split(" - ")] for i in re.split("\n+", f.read())]
 
 for i in data:
-    i[2] = [j.strip() for j in i[2].lower().split(", ")]
+    i[2] = [j.strip() for j in i[2].split(", ")]
 
 # OLD CODE
 # with open("result/result.txt", encoding="iso-8859-1") as f:
