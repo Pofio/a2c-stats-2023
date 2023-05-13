@@ -303,3 +303,4 @@ revs#4917 - Arizona State University - Computer Science
 cxlliss#3833 - Washington University in St. Louis - Philosophy, Neuroscience, Psychology
 pen#3876 - University of Toronto - Neuroscience
 eros#0644 - Occidental College - Politics
+jakob#4242 - Texas Tech University - Political Science
