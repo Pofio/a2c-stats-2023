@@ -13,8 +13,9 @@ ggplot(top_n(count(why_df_bruh, subjects), 17, n), mapping = aes(x = reorder(sub
   geom_bar(stat = "identity") +
   geom_text(aes(label = n), position = position_dodge(width = 0.9), hjust = -0.3) +
   coord_flip() +
-  ggtitle("Interested Subjects vs Number of Students", "in a2c #commitments") +
+  ggtitle("Interested Subjects vs Number of Students", "in a2c #commitments (2023)") +
   xlab("Subject") +
   ylab("Numbert of Students")
 
 print("Done")
+# ggsave("bar_subjects.png", path="2023-cycle/graph_images")

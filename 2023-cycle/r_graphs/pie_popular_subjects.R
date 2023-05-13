@@ -10,7 +10,7 @@ colnames(df) <- c("tag", "university", "subjects")
 #   Economics
 #   Mathematics
 
-subject <- "Mathematics"
+subject <- "Economics"
 
 total <- length(df$subjects)
 num <- sum(unlist(df$subjects) == subject)
@@ -35,4 +35,4 @@ ggplot(df, aes(x = "", y = prop, fill = group)) +
   theme(legend.position = "none") +
   geom_text(aes(y = ypos, label = group), color = "white", size = 6) +
   scale_fill_manual(values = c("#0275d8", "#858585")) +
-  ggtitle("Number of Students Interested in Subject vs Total Students", "in a2c #commitments")
+  ggtitle(paste("Proportion of Students Interested in", subject), "in a2c #commitments (2023)")
