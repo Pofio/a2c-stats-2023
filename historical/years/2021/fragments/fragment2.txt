@@ -1,6 +1,6 @@
 I will give you a series of messages written by different discord users which are separated by a new line. For each message, the author has said which university they are going to. I want you to identify the university name. If you cannot identify the university, use UNKNOWN. I want you to use university names recognized by usnews. Respond in a format like this: "author - university name" where the interested areas is a comma separated list. Ignore honors college, ignore schools/colleges within the university. Ignore potential majors they are interested in.
 
-soignesalaksam#1571 wrote "Princeton '25!"
+REDACTED#1571 wrote "Princeton '25!"
 Fearless-Quit#2658 wrote "Bates College '25!"
 random name#6300 wrote "University of Oklahoma '23 or '25!!! *Boomer Sooner!!!* (I guess...)"
 oatmilk#2155 wrote "Penn State '25 for Electrical Engineering !!!! :peepocelebrate::peepocelebrate: **WE ARE! **"
